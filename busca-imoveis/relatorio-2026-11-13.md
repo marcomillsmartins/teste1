@@ -1,165 +1,176 @@
-# Busca de imóveis: diagnóstico de enquadramento e capacidade de compra
+# Busca de imóveis: diagnóstico e capacidade de compra
 
 Data das consultas: 13/11/2026
-Status: **diagnóstico concluído; busca de imóveis pendente** (ver seção 2)
+Status: **diagnóstico concluído; busca de anúncios parcial** (acesso aos portais bloqueado nesta sessão, ver seção 2)
 
 ---
 
-## Dados considerados
+## Seu perfil
 
 | Item | Valor |
 |---|---|
-| Proponente | Marco, nascido em 13/06/1991 (35 anos e 5 meses) |
-| Renda bruta do proponente | R$ 14.000 |
-| Possível composição | Mãe, nascida em 29/06/1959 (67 anos e 4 meses), aposentadoria de R$ 2.500 |
-| Renda familiar se compuser | R$ 16.500 |
-| Regiões | São Paulo (capital) e Praia Grande |
-| FGTS, entrada, parcela máxima, imóvel atual, subsídio anterior | **Não informados.** Usei cenários. |
+| Proponente | Marco, 35 anos (nascido em 13/06/1991) |
+| Renda bruta | R$ 14.000 (você) + R$ 2.500 (aposentadoria da sua mãe, 67 anos) = R$ 16.500 |
+| FGTS | R$ 0, sem tempo de contribuição |
+| Entrada disponível | R$ 50.000 |
+| Parcela máxima | Não informada. Usei 30% da sua renda: **R$ 4.200** |
+| Imóvel próprio / subsídio anterior | Não / não |
+| Imóvel buscado | Apartamento pronto, mínimo 2 dormitórios e 1 vaga, de preferência perto do metrô |
+| Regiões | SP: Vila Mariana, Paraíso, Ipiranga, Lapa, Vila Leopoldina, Vila Madalena, Pinheiros. Praia Grande: Boqueirão, Forte, Guilhermina |
+
+---
+
+## Resumo em quatro frases
+
+1. Você está **fora do Minha Casa, Minha Vida** e **fora do Pró-Cotista**. Sua linha é o **SBPE**, crédito imobiliário comum, a cerca de **11,2% ao ano + TR** na Caixa.
+2. Sua renda aguenta financiar até **cerca de R$ 360 mil**. O que trava a compra é a **entrada**: com R$ 50 mil, o imóvel mais caro que você consegue comprar hoje custa **cerca de R$ 200 mil**.
+3. Nenhum dos bairros de São Paulo que você listou tem apartamento de 2 dormitórios com vaga perto disso. Nos mais baratos da lista (Lapa e Ipiranga), o mínimo realista fica em R$ 550 mil a R$ 650 mil.
+4. Em Praia Grande, na Guilhermina, há apartamentos de 2 dormitórios com vaga a partir de **cerca de R$ 390 mil**. Para eles, você precisa de **R$ 90 mil a R$ 95 mil** em mãos. Faltam cerca de R$ 45 mil.
 
 ---
 
 ## 1. Diagnóstico de enquadramento
 
-### Você está fora do Minha Casa, Minha Vida
+### Minha Casa, Minha Vida: não se aplica
 
-A Portaria MCID nº 333, publicada em 1º/04/2026 e em vigor desde abril, elevou o teto da Faixa 4 para **R$ 13.000 de renda bruta familiar** e o valor máximo do imóvel para **R$ 600 mil**.
+A Portaria MCID nº 333, de abril de 2026, fixou o teto da Faixa 4 em **R$ 13.000 de renda bruta familiar**, com imóvel de até R$ 600 mil. Sua renda sozinha já passa disso. Com a da sua mãe, mais ainda.
 
-Sua renda sozinha, R$ 14 mil, já passa do teto. Somada à da sua mãe, R$ 16,5 mil, passa mais ainda. Não há faixa do MCMV para você, com ou sem composição.
+Se ela mora com você, a renda dela conta como renda familiar de qualquer jeito. Colocar o imóvel no nome dela para caber numa faixa menor seria declaração incorreta, com risco de perder o contrato. Não é caminho.
 
-Um alerta: se sua mãe mora com você, a renda dela entra no cálculo da renda familiar de qualquer forma. Colocar o imóvel só no nome dela para tentar uma faixa subsidiada não é caminho. Seria declaração incorreta de renda familiar, com risco de cancelamento do contrato e devolução do subsídio.
+A perda é pequena. A Faixa 4 não tem subsídio, e a taxa dela (cerca de 10,5% a.a.) não fica longe do SBPE.
 
-Perder o MCMV custa pouco no seu caso. A Faixa 4 não tem subsídio, e a taxa dela (cerca de 10,5% a.a. para cotista do FGTS, segundo a Secom) não fica muito abaixo do SBPE.
+### Pró-Cotista FGTS: não se aplica
 
-### Linhas que se aplicam a você
+Exige pelo menos 3 anos de conta no FGTS. Você não tem. Além disso, a linha hoje só atende imóvel novo, e você quer pronto, possivelmente usado.
 
-**a) Pró-Cotista FGTS (melhor opção, se estiver aberta)**
-- Taxa mais citada em 2026: **8,66% a.a. + TR** na Caixa. Algumas fontes falam em 9,01%.
-- Exige conta vinculada ao FGTS há pelo menos 3 anos (36 meses, consecutivos ou não), não ter financiamento ativo no SFH e não ter imóvel residencial na cidade onde mora ou trabalha.
-- Cota de financiamento citada: até 80% em imóvel novo (SAC) e menos em usado (50% a 70%, conforme a fonte).
-- **Ponto fraco:** a disponibilidade da linha oscila. Ela já foi suspensa e reaberta mais de uma vez. As fontes de 2026 não concordam no teto de valor (R$ 500 mil, R$ 800 mil ou R$ 1 milhão). Precisa ser confirmado na agência.
+### SBPE: sua linha
 
-**b) SBPE (crédito imobiliário comum, pelo SFH)**
-- Caixa: **10,3% a 11,2% a.a. + TR**, conforme a fonte e o relacionamento com o banco. Bancos privados ficam na mesma faixa, às vezes abaixo para quem tem conta salário e investimentos.
-- Teto do SFH: R$ 2,25 milhões. Você pode usar o FGTS na entrada se cumprir as regras de uso (3 anos de FGTS, sem imóvel na cidade).
-- Cota de financiamento: 70% a 80% do valor de avaliação, conforme o banco. A Caixa reduziu essa cota em 2025, então confirme.
+- **Taxa:** Caixa a partir de **11,19% a.a. + TR**, segundo as fontes de mercado consultadas. Itaú, Bradesco, Santander e BB oscilam entre 10,3% e 12% conforme o relacionamento. Vale cotar em pelo menos três bancos.
+- **Cota de financiamento:** a Caixa voltou a financiar **até 80% no SAC** (inclusive usado) e **70% na Price**.
+- **Prazo:** até 420 meses (35 anos). Sua idade permite o prazo máximo.
+- **Contexto:** o Copom manteve a Selic em **13,75%** em 04/11/2026 e interrompeu os cortes. Não conte com queda relevante dos juros no curto prazo.
 
-**Contexto de juros:** o Copom manteve a Selic em **13,75% a.a.** em 04/11/2026 e interrompeu o ciclo de cortes. Não espere queda relevante das taxas de financiamento nos próximos meses.
+### Ponto de atenção: FGTS zerado indica que você não é CLT
+
+Se você é PJ, autônomo ou servidor estatutário, o banco vai pedir comprovação de renda diferente: declaração de IR, pró-labore, extratos bancários dos últimos 6 a 12 meses, decore assinado por contador. **Muitos bancos aceitam só parte da renda de PJ.** Se a Caixa reconhecer, por exemplo, R$ 10 mil em vez de R$ 14 mil, sua capacidade de financiamento cai cerca de 30%. Confirme isso antes de procurar imóvel.
 
 ### Composição de renda com sua mãe: não recomendo
 
-A Caixa limita a soma de idade com prazo a **80 anos e 6 meses**. Sua mãe tem 67 anos e 4 meses, o que deixa um prazo máximo de cerca de **13 anos (157 meses)**. As fontes divergem sobre qual idade o banco usa quando há dois proponentes. Se for a dela, a composição reduz o prazo de 35 para 13 anos.
+A Caixa limita a soma de idade com prazo a **80 anos e 6 meses**. Com sua mãe aos 67 anos, o prazo cai para **cerca de 13 anos** se o banco usar a idade dela. Nesse cenário, mesmo com R$ 16,5 mil de renda, o financiamento máximo cai de R$ 358 mil para cerca de R$ 315 mil, e o seguro obrigatório fica bem mais caro.
 
-Na simulação, isso derruba sua capacidade de financiamento:
-
-| Cenário (SBPE 11,19%, SAC) | Renda | Prazo | Financiamento máximo |
-|---|---|---|---|
-| Só você | R$ 14.000 | 35 anos | **cerca de R$ 358 mil** |
-| Você e sua mãe | R$ 16.500 | 13 anos | cerca de R$ 315 mil |
-
-Os R$ 2.500 a mais não compensam a perda de 22 anos de prazo. Além disso, o seguro obrigatório (MIP) fica muito mais caro para uma proponente de 67 anos. A composição só valeria se o banco aceitasse usar a sua idade no prazo, e isso precisa ser perguntado por escrito ao gerente.
-
-### Capacidade de compra (só você, parcela até 30% da renda = R$ 4.200)
-
-Simulação própria, com taxa nominal convertida em taxa mensal e seguros MIP/DFI e tarifa estimados em R$ 25 + 0,04% do saldo ao mês. **A TR não está incluída**: com a Selic atual, ela acrescenta cerca de 1,5 a 2 pontos ao custo efetivo. Use estes números como ordem de grandeza. O número que vale é o do simulador do banco.
-
-| Linha | Financiamento máximo (SAC, 420 meses) | Financiamento máximo (Price, 360 meses) |
-|---|---|---|
-| Pró-Cotista 8,66% | R$ 429 mil | R$ 524 mil |
-| SBPE 11,19% | R$ 358 mil | R$ 432 mil |
-| SBPE com TR (cerca de 12,9%) | R$ 323 mil | R$ 385 mil |
-
-**Teto prudente de valor do imóvel:** de **R$ 450 mil a R$ 500 mil**, dependendo da entrada. Acima disso, você precisa de entrada grande ou estoura os 30% da renda.
-
-Parcelas por valor de imóvel (SAC, 420 meses):
-
-| Imóvel | Financiado | Taxa | 1ª parcela SAC | Última SAC | Parcela Price (360 m) | Juros totais no SAC |
-|---|---|---|---|---|---|---|
-| R$ 400 mil | 80% (R$ 320 mil) | 8,66% | R$ 3.137 | R$ 792 | R$ 2.576 | R$ 468 mil |
-| R$ 400 mil | 80% (R$ 320 mil) | 11,19% | R$ 3.756 | R$ 794 | R$ 3.117 | R$ 598 mil |
-| R$ 500 mil | 70% (R$ 350 mil) | 11,19% | R$ 4.106 | R$ 866 | R$ 3.407 | R$ 654 mil |
-| R$ 500 mil | 80% (R$ 400 mil) | 11,19% | R$ 4.689 | R$ 986 | R$ 3.890 | R$ 748 mil |
-| R$ 600 mil | 70% (R$ 420 mil) | 11,19% | R$ 4.922 | R$ 1.034 | R$ 4.083 | R$ 785 mil |
-
-**SAC ou Price?** No seu caso, SAC. A parcela começa mais alta e cai todo mês, e o total de juros é bem menor. A Price só se justifica se a primeira parcela do SAC não couber. Mesmo nesse caso, prefira um imóvel mais barato a alongar a dívida com Price.
-
-### Quanto você precisa ter em mãos
-
-Exemplo de imóvel de R$ 450 mil em São Paulo, financiando 80%:
-
-| Item | Valor estimado |
-|---|---|
-| Entrada (20%) | R$ 90.000 |
-| ITBI (São Paulo: 3%; parte financiada pelo SFH pode ter alíquota reduzida de 0,5%, confirmar enquadramento) | R$ 4.700 a R$ 13.500 |
-| Registro do contrato no cartório (o contrato bancário dispensa escritura) | R$ 4.000 a R$ 6.000 |
-| Avaliação do imóvel e tarifas do banco | R$ 2.000 a R$ 3.500 |
-| **Total até as chaves (imóvel pronto)** | **R$ 100 mil a R$ 113 mil** |
-
-Se o banco financiar só 70%, a entrada sobe para R$ 135 mil e o total passa de R$ 145 mil.
-
-**Imóvel na planta:** a entrada costuma ser parcelada com a construtora durante a obra e corrigida pelo **INCC** (de 5% a 7% ao ano nos últimos anos). Nesse período você também paga os juros de obra ao banco. Some de R$ 300 a R$ 1.500 por mês, conforme o andamento. Atraso na entrega prolonga essa despesa dupla.
-
-Praia Grande: a alíquota de ITBI não foi localizada em fonte confiável. Precisa ser consultada na Secretaria de Finanças do município.
+E ela não resolve o seu problema real, que é a entrada. Faça sozinho.
 
 ---
 
-## 2. Imóveis encontrados
+## 2. Capacidade de compra
 
-**Nenhum imóvel listado ainda.** Não é falta de busca: nesta sessão, o acesso de rede aos portais (ZAP, VivaReal, QuintoAndar, OLX, imóveis Caixa) e ao gov.br está bloqueado pela configuração do ambiente. Testei um por um. Pela regra combinada, não vou listar anúncio sem link verificado. A planilha `imoveis.csv` está criada só com o cabeçalho.
+Simulação própria: taxa de 11,19% a.a. convertida para mensal, seguros e tarifa estimados em R$ 25 + 0,04% do saldo ao mês. **A TR não está incluída** e acrescenta algo entre 1,5 e 2 pontos ao custo efetivo com a Selic atual. Trate como ordem de grandeza. O número que vale é o do simulador do banco.
 
-Referências de preço para calibrar a busca (FipeZAP):
-- **Praia Grande:** R$ 6.652/m² (abril/2026), alta de 6,9% em 12 meses. Com R$ 450 mil, dá cerca de 65 a 70 m².
-- **São Paulo (capital):** R$ 11.915/m² de média (janeiro/2026). Com R$ 450 mil, a média dá cerca de 38 m². Para chegar a 2 dormitórios, a busca precisa mirar bairros abaixo da média da cidade, com acesso a trem ou metrô.
+### Pela renda
 
-## 3. Imóveis descartados
+Com parcela inicial de até R$ 4.200 (30% da renda), você financia até **R$ 358 mil no SAC** (420 meses) ou **R$ 432 mil na Price** (360 meses).
 
-Nenhum, pelo mesmo motivo.
+### Pela entrada (o que realmente limita)
+
+O banco financia até 80%. Os outros 20% mais os custos de compra saem do seu bolso:
+
+| Valor do imóvel | Entrada (20%) | Custos (ITBI, registro, avaliação) | **Total em mãos** | 1ª parcela SAC | % da renda |
+|---|---|---|---|---|---|
+| R$ 200 mil | R$ 40 mil | R$ 7 a 9 mil | **R$ 47 a 49 mil** | R$ 1.890 | 13% |
+| R$ 390 mil | R$ 78 mil | R$ 12 a 15 mil | **R$ 90 a 93 mil** | R$ 3.663 | 26% |
+| R$ 425 mil | R$ 85 mil | R$ 12 a 17 mil | **R$ 97 a 102 mil** | R$ 3.989 | 28% |
+| R$ 490 mil | R$ 98 mil | R$ 14 a 19 mil | **R$ 112 a 117 mil** | R$ 4.595 | 33% |
+| R$ 600 mil | R$ 120 mil | R$ 16 a 22 mil | **R$ 136 a 142 mil** | R$ 5.621 | 40% |
+
+Custos considerados:
+- **ITBI em São Paulo:** 3% sobre a parte paga com recursos próprios e 0,5% sobre a parte financiada pelo SFH, dentro do limite previsto na lei municipal (confirmar enquadramento na Prefeitura).
+- **ITBI em Praia Grande:** não localizei a alíquota em fonte confiável. Usei 2% como estimativa. Precisa ser confirmado na Secretaria de Finanças.
+- **Registro do contrato:** cerca de 1,2% do valor. O contrato bancário dispensa escritura.
+- **Avaliação e tarifas do banco:** cerca de R$ 3 mil.
+
+**Conclusão:** com R$ 50 mil, seu teto hoje é **cerca de R$ 200 mil**. Sua renda permitiria um imóvel de R$ 430 mil a R$ 450 mil. A distância entre os dois números é a entrada que falta.
+
+**SAC ou Price:** SAC. A Price exige 30% de entrada na Caixa, o que piora o problema que você já tem.
 
 ---
 
-## 4. O que eu faria no seu lugar
+## 3. A realidade dos bairros
 
-**Primeiro, separe as duas buscas.** São Paulo e Praia Grande não são alternativas equivalentes. Se você trabalha em São Paulo, morar em Praia Grande significa de 1h30 a 2h30 de deslocamento por trecho. Além disso, o FGTS só pode ser usado em imóvel na cidade (ou região metropolitana) onde você mora ou trabalha, e a Baixada Santista é outra região metropolitana. Se Praia Grande for **imóvel de veraneio ou investimento**, ele não entra no SFH com FGTS. O crédito sai mais caro, e a conta vira outra.
+Preço do m² de apartamentos anunciados, novembro/2026 (FipeZAP e medianas de anúncios do Zap e VivaReal). Para um 2 dormitórios com vaga, considerei 55 a 65 m².
 
-**Segundo, faça o financiamento sozinho, sem compor com sua mãe.** Sua renda sustenta a operação, e o prazo de 35 anos é o que torna a parcela viável. Se o objetivo é dar segurança a ela, a solução é outra: morar junto, usufruto ou planejamento sucessório. Compor renda não resolve isso.
+| Região | m² anunciado | 2 dorm. com vaga, estimativa | Total em mãos necessário | Viável? |
+|---|---|---|---|---|
+| Pinheiros | R$ 18.300 a R$ 18.800 | R$ 1,0 a 1,2 milhão | R$ 230 mil ou mais | Não, nem pela renda |
+| Vila Madalena | cerca de R$ 18.000 | R$ 1,0 a 1,2 milhão | R$ 230 mil ou mais | Não, nem pela renda |
+| Vila Mariana | R$ 14.000 a R$ 14.900 | R$ 780 a 950 mil | R$ 175 mil ou mais | Não, nem pela renda |
+| Paraíso | cerca de R$ 14.100 | R$ 780 a 920 mil | R$ 175 mil ou mais | Não, nem pela renda |
+| Ipiranga | R$ 11.000 a R$ 12.100 | R$ 610 a 790 mil | R$ 140 mil ou mais | Parcela passa de 40% da renda |
+| Lapa | cerca de R$ 10.700 | R$ 590 a 700 mil | R$ 135 mil ou mais | Parcela passa de 40% da renda |
+| Vila Leopoldina | sem dado confiável | provavelmente acima da Lapa | n/d | Improvável |
+| **Praia Grande (Guilhermina)** | **R$ 6.400 a R$ 6.800** | **R$ 390 a 490 mil** | **R$ 90 a 117 mil** | **Sim, juntando mais entrada** |
 
-**Terceiro, trabalhe com teto de R$ 450 mil a R$ 500 mil e entrada de pelo menos 20%.** Com Selic a 13,75% e cortes interrompidos, financiar 80% de R$ 600 mil daria uma parcela inicial de R$ 5.600, 40% da sua renda. Não recomendo.
-
-**Quarto, verifique o Pró-Cotista antes de qualquer outra coisa.** A diferença entre 8,66% e 11,19% equivale a cerca de R$ 130 mil a menos de juros num financiamento de R$ 320 mil. Se a linha estiver aberta e você cumprir os 3 anos de FGTS, ela deve ser a primeira opção.
-
-**Sobre Praia Grande como moradia, um alerta de urbanista para urbanista:** a orla de Praia Grande está exposta a ressacas, erosão costeira e elevação do nível do mar, e vários bairros mais baixos e próximos dos canais alagam com chuva forte combinada com maré alta. Para um imóvel com horizonte de 35 anos de financiamento, consulte a carta de suscetibilidade e as áreas de risco do município antes de considerar qualquer endereço.
+Os números de anúncios ficam acima do preço efetivamente pago. Os registros de ITBI de São Paulo mostram valores de escritura bem menores. Ainda assim, mesmo com desconto de 15% sobre o pedido, nenhum bairro paulistano da lista entra no seu orçamento.
 
 ---
 
-## 5. Documentos para o financiamento
+## 4. Imóveis encontrados
+
+O acesso direto aos portais (ZAP, VivaReal, QuintoAndar, OLX, imóveis Caixa) está **bloqueado pela rede desta sessão**. Testei cada um. Os anúncios abaixo apareceram no índice do buscador, mas **não consegui abrir as páginas** para conferir condomínio, andar, idade do prédio, foto ou se ainda estão ativos. Tome como referência de mercado, não como recomendação de compra.
+
+| # | Link | Bairro | m² | Dorm. | Vaga | Preço pedido | R$/m² | Total em mãos estimado | 1ª parcela SAC |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | [SP Imóvel 4468264](https://www.spimovel.com.br/imovel/apartamento-venda-rs390000-2quartos-1vaga-60m2-guilhermina-praia-grande-sao-paulo-sao-paulo-sp/4468264/) | Guilhermina, PG | 60 | 2 | 1 | R$ 390.000 | R$ 6.500 | R$ 93 mil | R$ 3.663 |
+| 2 | [SP Imóvel 4467111](https://www.spimovel.com.br/imovel/apartamento-venda-400mil-ate-450mil-2quartos-1vaga-67m2-guilhermina-praia-grande-sao-paulo-sao-paulo-sp/4467111/) | Guilhermina, PG | 67 | 2 | 1 | R$ 400 a 450 mil (faixa) | R$ 6.000 a 6.700 | R$ 96 a 108 mil | R$ 3.750 a 4.220 |
+| 3 | [SP Imóvel 4466228](https://www.spimovel.com.br/imovel/apartamento-venda-rs490000-2quartos-1vaga-72m2-guilhermina-praia-grande-sao-paulo-sp/4466228/) | Guilhermina, PG | 72 | 2 | 1 | R$ 490.000 | R$ 6.806 | R$ 117 mil | R$ 4.595 |
+| 4 | [SP Imóvel 4468267](https://www.spimovel.com.br/imovel/apartamento-venda-rs560000-2quartos-1vaga-88m2-guilhermina-praia-grande-sao-paulo-sao-paulo-sp/4468267/) | Guilhermina, PG | 88 | 2 | 1 | R$ 560.000 | R$ 6.364 | R$ 133 mil | R$ 5.250 |
+
+Leitura rápida:
+- **O nº 1 é o único que fica dentro dos 30% da renda** com folga. Preço por m² dentro da média da cidade (R$ 6.652, FipeZAP abril/2026), então não parece barato demais.
+- **O nº 3 e o nº 4** estouram ou encostam no limite de parcela e exigem entrada que você não tem.
+- **Faltam dados essenciais:** condomínio (na orla de Praia Grande costuma ir de R$ 500 a R$ 1.200), distância da praia, andar, elevador, idade do prédio.
+- **Boqueirão e Forte:** não apareceram anúncios de 2 dormitórios dentro da faixa no índice. Boqueirão é o bairro mais valorizado da cidade e tende a ficar acima de R$ 7.000/m².
+
+Descartados nesta etapa: todos os bairros de São Paulo da sua lista, pelos motivos da seção 3. Anúncios de 1 dormitório (vários no Boqueirão, de R$ 250 a 260 mil) e de 3 dormitórios acima de R$ 850 mil também ficaram de fora por não atenderem ao perfil.
+
+---
+
+## 5. O que eu faria no seu lugar
+
+**Não compre agora.** Com R$ 50 mil, você só alcança imóveis de R$ 200 mil, e nada nessa faixa atende ao que você quer nas regiões que escolheu. Forçar a compra significaria abrir mão de dormitório, de vaga ou da região, ou pegar empréstimo pessoal para a entrada. Essa última opção é a pior: os juros dele chegam a 4% ou 5% ao mês.
+
+**Junte de R$ 45 mil a R$ 50 mil a mais.** Sua renda permite. Guardando R$ 3.500 a R$ 4.000 por mês, em 12 a 14 meses você chega a R$ 95 mil a R$ 100 mil, o suficiente para um 2 dormitórios de R$ 390 a 420 mil em Praia Grande com parcela abaixo de 30% da renda. Deixe esse dinheiro no Tesouro Selic ou em CDB de liquidez diária: com Selic a 13,75%, ele rende mais do que a valorização média dos imóveis.
+
+**Se São Paulo for prioridade, mude de bairro, não de padrão.** Com R$ 100 mil de entrada e R$ 4.200 de parcela, você alcança imóvel de até R$ 450 mil. Nessa faixa, 2 dormitórios com vaga perto do metrô ou da CPTM aparecem em bairros como Saúde (parte mais distante do metrô), Sacomã, Jabaquara, Vila Prudente, Tatuapé (prédios mais antigos), Freguesia do Ó e Butantã (trechos mais distantes). Posso refazer a busca nessa direção.
+
+**Não componha renda com sua mãe.** Ela não aumenta sua entrada, reduz seu prazo e encarece o seguro.
+
+**Antes de qualquer visita, resolva duas pendências:**
+1. Saber quanto da sua renda o banco vai reconhecer, se você não for CLT.
+2. Simular no site da Caixa e de mais dois bancos, com sua renda real e o valor de um imóvel de referência.
+
+**Sobre Praia Grande como moradia permanente**, um alerta técnico: a orla está exposta a ressacas, erosão costeira e elevação do nível do mar, e partes da Guilhermina e do Forte mais próximas dos canais alagam quando chuva forte coincide com maré alta. Num financiamento de 35 anos, isso pesa no valor de revenda e no seguro. Antes de qualquer endereço, consulte a carta de suscetibilidade a inundações do município e prefira imóveis em quadras mais altas e andares acima do térreo.
+
+---
+
+## 6. Documentos para o financiamento
 
 **Seus:**
-- RG e CPF (ou CNH), certidão de nascimento ou casamento
+- RG e CPF ou CNH; certidão de nascimento (ou de casamento/união estável, se for o caso)
 - Comprovante de residência recente
-- Três últimos holerites e carteira de trabalho; se tiver outras rendas, declaração do IR completa com recibo
-- Extrato do FGTS atualizado (app FGTS)
-- Declaração de que não possui imóvel residencial na cidade (o banco fornece o modelo)
-- Se sua mãe compuser renda (não recomendado): documentos pessoais dela e extrato de benefício do INSS
+- Comprovação de renda:
+  - CLT: três últimos holerites e carteira de trabalho
+  - PJ/autônomo: declaração completa de IR com recibo, extratos bancários de 6 a 12 meses, contrato social e decore assinado por contador
+  - Servidor: três últimos contracheques
+- Declaração de estado civil e de que não possui imóvel residencial (o banco fornece o modelo)
 
-**Do imóvel (o banco ou o vendedor providencia, mas confira):**
+**Do imóvel (normalmente o vendedor ou o banco providencia, mas confira):**
 - Matrícula atualizada com certidão de ônus reais (até 30 dias)
-- IPTU do ano e certidão negativa de débitos
-- Declaração de quitação de condomínio
-- Habite-se (imóvel novo) ou registro de incorporação (na planta)
+- IPTU do ano e certidão negativa de débitos de IPTU
+- Declaração de quitação do condomínio assinada pelo síndico
+- Habite-se e AVCB do prédio
 
 **Do vendedor:**
-- Documentos pessoais e certidões negativas (protestos, ações cíveis e trabalhistas, Justiça Federal), que protegem você contra fraude contra credores
-
----
-
-## 6. O que preciso de você para seguir
-
-1. **Saldo de FGTS e tempo de contribuição.** Define se o Pró-Cotista é possível e o tamanho da entrada.
-2. **Dinheiro disponível para entrada e custos.**
-3. **Parcela máxima que você aceita.** Usei 30% da renda, R$ 4.200.
-4. **Se já possui imóvel residencial**, em qualquer cidade.
-5. **Praia Grande é para morar ou para veraneio?**
-6. **Onde você trabalha**, para medir o deslocamento a partir de São Paulo.
-7. **Liberar o acesso de rede** desta sessão aos portais (zapimoveis.com.br, vivareal.com.br, quintoandar.com.br, olx.com.br, imovelweb.com.br, venda-imoveis.caixa.gov.br, caixa.gov.br, gov.br). Sem isso, não consigo levantar anúncios com link verificado.
+- Documentos pessoais e certidões negativas: protestos, distribuidores cíveis, Justiça do Trabalho e Justiça Federal. Elas protegem você contra fraude contra credores.
 
 ---
 
@@ -174,17 +185,23 @@ Oficiais:
 - FipeZAP, índice residencial de venda, abril/2026: https://www.datazap.com.br/wp-content/uploads/2026/05/fipezap-202604-residencial-venda-compressed.pdf
 - Prefeitura de São Paulo, ITBI: https://prefeitura.sp.gov.br/web/fazenda/w/servicos/itbi/2513
 
-Imprensa e mercado (secundárias, usadas com cautela):
+Juros e crédito (secundárias):
 - Copom mantém Selic em 13,75% (04/11/2026): https://www.oliberal.com/economia/bc-copom-interrompe-ciclo-de-calibracao-e-mantem-taxa-selic-em-13-75-ao-ano-1.1190560
 - DGABC, Copom: https://www.dgabc.com.br/Noticia/4366888/bc-copom-interrompe-ciclo-de-calibracao-e-mantem-taxa-selic-em-13-75-ao-ano
-- Radar de taxas de financiamento 2026 (MySide): https://myside.com.br/guia-imoveis/taxa-juros-financiamento-imobiliario
+- Taxas da Caixa em 2026 (SP Imóvel): https://www.spimovel.com.br/blog/qual-a-taxa-de-juros-para-financiamento-imobiliario-da-caixa-em-2026/2877/
+- Financiamento de usado pela Caixa em 2026 (Larya): https://larya.com.br/blog/financiamento-caixa-imovel-usado/
 - Ranking de taxas 2026 (Larya): https://larya.com.br/blog/taxas-de-juros-financiamento-imobiliario-2026/
-- Taxas da Caixa em 2026 (IstoÉ Dinheiro): https://istoedinheiro.com.br/caixa-financiamento-imobiliario-fev-2026-taxas
+- Radar de taxas 2026 (MySide): https://myside.com.br/guia-imoveis/taxa-juros-financiamento-imobiliario
 - Pró-Cotista 2026 (SP Imóvel): https://www.spimovel.com.br/blog/pro-cotista-caixa-2026-financiamento-volta-a-80porcento-do-imovel-/4329/
-- Pró-Cotista 2026 (Amplace): https://amplace.com.br/blog/financiamento/pro-cotista-caixa-2026-financiamento-de-imoveis-de-ate-r-1-milhao/
 - Idade máxima no financiamento (Larya): https://larya.com.br/blog/idade-minima-e-maxima-para-financiar-imovel-existe-limite/
 - Aposentado e financiamento (meutudo): https://meutudo.com.br/blog/aposentado-pode-financiar-imovel/
-- Faixa 4 do MCMV (mcmv.com.br): https://mcmv.com.br/blog/faixa-4-minha-casa-minha-vida
-- ITBI em São Paulo (Portas): https://portas.com.br/noticias/itbi-sao-paulo/
 
-Limitação: as páginas do gov.br não puderam ser abertas diretamente por bloqueio de rede da sessão. As informações delas vieram dos trechos indexados pelo buscador. Antes de assinar qualquer coisa, confirme taxa, cota de financiamento e disponibilidade do Pró-Cotista no simulador oficial da Caixa e com o gerente.
+Preços por bairro (secundárias):
+- Medianas de anúncios Zap/VivaReal por bairro, nov/2026: https://dev.to/datadaemon/sao-paulo-and-rio-asking-prices-per-m2-by-neighborhood-19000-new-zap-imoveis-and-vivareal-38ll
+- FipeZAP de setembro/2026 por bairro (Daniel Carvalho): https://danielcarvalhoimobiliario.com.br/blog/sao-paulo-m2-12206-bairros-fipezap-setembro-2026
+- Preço do m² em Pinheiros 2026 (Pilar Homes): https://www.pilarhomes.com.br/panorama/preco-m2-apartamentos-pinheiros-2026
+- Preço do m² por bairro de SP (Portioli): https://portioli.com.br/dados/preco-m2-sao-paulo/
+- Vendas reais pelo ITBI por bairro (itbisp): https://itbisp.com/bairro
+- Valor do m² em Praia Grande (MySide): https://myside.com.br/guia-imoveis/valor-metro-quadrado-praia-grande-sp
+
+**Limitações:** as páginas do gov.br, da Caixa e dos portais não abriram por bloqueio de rede da sessão. As informações vieram dos trechos indexados pelo buscador. Antes de assinar qualquer coisa, confirme taxa, cota e a renda que o banco reconhece no simulador oficial e com o gerente.
