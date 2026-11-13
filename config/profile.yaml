@@ -1,0 +1,52 @@
+# Seu perfil profissional. O agente usa isto + o seu CV (cv/cv.md) para
+# ranquear vagas e escrever cartas. Edite à vontade.
+
+name: ""                      # nome que assina as cartas
+email: ""                      # e-mail de contato que vai nas cartas (opcional)
+phone: ""
+linkedin: ""
+
+cv_path: cv/cv.md              # CV em Markdown (texto). Veja cv/cv.example.md
+cv_pdf_path: cv/cv.pdf         # anexado quando a candidatura é por e-mail (opcional)
+
+languages: ["Português (nativo)", "Inglês (fluente)", "Espanhol"]   # ajuste
+
+areas:
+  - Política climática e ambiental
+  - Adaptação climática urbana
+  - Soluções Baseadas na Natureza (SbN / NbS)
+  - Justiça climática
+  - Advocacy e incidência política
+  - Comunicação política e estratégica
+  - Articulação institucional entre governos, parlamento e sociedade civil
+
+target_roles:
+  - Program Lead / Program Manager
+  - Policy Manager / Advocacy Manager
+  - Strategic Communications Lead
+  - Coordenação de iniciativas para Brasil e América Latina
+  - Country Lead / Brazil Lead / LATAM Lead
+
+target_employers:
+  - Organizações internacionais (ONU, bancos multilaterais, agências de cooperação)
+  - Fundações filantrópicas
+  - ONGs nacionais e internacionais
+  - Think tanks e redes climáticas
+
+locations:
+  preferred: ["São Paulo, Brasil", "Brasília, Brasil"]
+  accept_remote: true
+  accept_hybrid_in: ["São Paulo"]
+  accept_short_term_elsewhere: true   # consultorias / missões curtas em outros locais
+  willing_to_travel: true
+
+seniority: "Pleno-sênior a gerência (ajuste se quiser: ex. 8+ anos de experiência)"
+
+dealbreakers:
+  - Estágio, trainee ou vagas júnior
+  - Vagas sem relação com clima, meio ambiente, políticas públicas ou advocacy
+  - Mudança permanente para fora do Brasil (salvo se for muito estratégica)
+
+notes: |
+  Valorizo vagas com foco em Brasil/América Latina, COP/negociações climáticas,
+  cidades e adaptação, e posições que combinem estratégia política e comunicação.

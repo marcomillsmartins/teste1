@@ -1,0 +1,37 @@
+name: Busca diária de vagas
+
+on:
+  schedule:
+    - cron: "17 10 * * 1-5"   # 07:17 em Brasília, dias úteis
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+
+      # O banco (vagas já vistas) é mantido entre execuções via cache
+      - uses: actions/cache@v4
+        with:
+          path: data
+          key: jobs-db-${{ github.run_id }}
+          restore-keys: jobs-db-
+
+      - name: Rodar agente
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CV_MARKDOWN: ${{ secrets.CV_MARKDOWN }}          # cole seu CV como segredo
+          RELIEFWEB_APPNAME: ${{ secrets.RELIEFWEB_APPNAME }}
+        run: python -m jobagent run
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: vagas-${{ github.run_number }}
+          path: output/
+          retention-days: 30

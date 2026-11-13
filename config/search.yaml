@@ -1,0 +1,67 @@
+# Onde e como procurar. Rode `python -m jobagent run` depois de ajustar.
+
+min_score_to_prepare: 70     # vagas com nota >= isto recebem carta/e-mail prontos
+max_jobs_to_score: 60        # limite por execução (controla custo da API)
+max_age_days: 30             # ignora vagas publicadas há mais tempo (quando a data é conhecida)
+
+# Pré-filtro barato (sem IA): títulos com estes termos são descartados antes de ranquear
+exclude_title_keywords:
+  - estágio
+  - estagiário
+  - intern
+  - internship
+  - trainee
+  - júnior
+  - junior
+  - jovem aprendiz
+
+# 1) Busca na web via Claude (cobre Google, LinkedIn, Indeed, Devex, Impactpool,
+#    UNjobs, Idealist, Climatebase, Vagas.com, Catho, InfoJobs, sites de fundações...)
+web_search:
+  enabled: true
+  max_searches: 15             # buscas por execução
+  queries:
+    - "climate policy manager Brazil job"
+    - "advocacy manager climate Latin America job NGO"
+    - "program lead nature-based solutions Brazil"
+    - "urban climate adaptation program manager Latin America"
+    - "climate justice advocacy lead Brazil foundation job"
+    - "strategic communications lead climate Latin America remote"
+    - "vaga gerente de advocacy clima São Paulo"
+    - "vaga coordenador de políticas climáticas Brasília"
+    - "vaga coordenação de programas meio ambiente ONG São Paulo"
+    - "site:linkedin.com/jobs climate policy Brazil"
+    - "site:devex.com jobs climate Brazil"
+    - "site:impactpool.org climate Brazil"
+    - "site:unjobs.org climate Brazil"
+    - "site:climatebase.org Latin America policy"
+    - "consultancy climate adaptation Latin America short-term"
+  allowed_domains: []          # vazio = qualquer site
+
+# 2) Gupy (API pública do portal de vagas)
+gupy:
+  enabled: true
+  terms:
+    - clima
+    - climática
+    - advocacy
+    - sustentabilidade
+    - meio ambiente
+    - políticas públicas
+    - relações institucionais
+    - relações governamentais
+
+# 3) ReliefWeb (vagas de ONGs e organismos internacionais). Exige RELIEFWEB_APPNAME no .env
+reliefweb:
+  enabled: true
+  queries: ["climate", "climate policy", "advocacy", "nature-based solutions"]
+  countries: ["Brazil"]        # deixe [] para o mundo todo (vagas remotas aparecem também)
+
+# 4) Quadros de vagas de organizações específicas (Greenhouse / Lever).
+#    Descubra o "token" na URL de carreiras: boards.greenhouse.io/<token> ou jobs.lever.co/<token>
+greenhouse:
+  enabled: true
+  boards: []                   # ex.: ["nomedaorg"]
+lever:
+  enabled: true
+  companies: []                # ex.: ["nomedaorg"]

@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+data/
+output/
+cv/*.pdf
+cv/cv.md
+!cv/cv.example.md
