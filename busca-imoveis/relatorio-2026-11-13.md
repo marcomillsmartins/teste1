@@ -185,7 +185,21 @@ Pontos fracos:
 - O subsídio para **imóvel usado** é incerto. As fontes de 2026 divergem, e o desconto costuma valer para imóvel novo. Se não houver subsídio, o teto cai para cerca de R$ 120 mil.
 - **O condomínio pesa muito na renda dela.** Na orla de Praia Grande, ele vai de R$ 500 a R$ 1.200, ou seja, de 20% a 48% da aposentadoria. Ela ou você precisam arcar com isso.
 
-### Caminho 2: você compra no seu nome pelo SBPE, e ela mora no imóvel
+### Decisão tomada: imóvel no nome dela, com doação sua e parcelas pagas por você
+
+Tudo fica no nome da sua mãe: imóvel, contrato e renda. Você entra só com a doação da entrada e paga as parcelas. O banco aprova pela renda dela, então a parcela máxima continua em cerca de R$ 750, mesmo sendo você quem paga.
+
+| Entrada doada | Financiamento | Subsídio (a confirmar) | Imóvel possível |
+|---|---|---|---|
+| R$ 50 mil | cerca de R$ 70 mil | R$ 0 a 55 mil | R$ 120 a 175 mil |
+| R$ 100 mil | cerca de R$ 70 mil | R$ 0 a 55 mil | R$ 170 a 225 mil |
+| R$ 125 a 180 mil | cerca de R$ 70 mil | R$ 0 a 55 mil | cerca de R$ 250 mil (1 dorm. no Boqueirão) |
+
+Limite: o imóvel não pode passar do teto da Faixa 1 no município (R$ 210 mil a R$ 275 mil). Acima disso, ela sai do MCMV e cai no SBPE, com juros de 11% + TR. Nesse caso, a renda dela financia só cerca de R$ 55 mil, e a compra fica pior.
+
+ITCMD: R$ 100 mil de doação, mais as parcelas pagas por você, podem passar do limite de isenção de 2.500 UFESPs. Confirme na Secretaria da Fazenda de SP se o limite vale por ano e se o imposto, quando o limite é ultrapassado, incide sobre o total ou só sobre o excedente. A alíquota é de 4%.
+
+### Caminho 2 (descartado por decisão sua): você compra no seu nome pelo SBPE, e ela mora no imóvel
 
 O imóvel fica em seu nome, e você cede o uso a ela por um contrato de comodato. Isso é legal: o financiamento é para fim residencial, e a residência pode ser de um familiar.
 
