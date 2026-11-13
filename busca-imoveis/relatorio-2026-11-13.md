@@ -152,6 +152,105 @@ Descartados nesta etapa: todos os bairros de São Paulo da sua lista, pelos moti
 
 ---
 
+## 5A. Atualização: o imóvel é para sua mãe morar sozinha
+
+Você confirmou que a ideia sempre foi sua mãe morar sozinha. Isso muda a análise: ela pode entrar no Minha Casa, Minha Vida com a renda dela, de forma legítima. Existem dois caminhos.
+
+### Caminho 1: sua mãe compra pelo MCMV, Faixa 1
+
+| Item | Valor |
+|---|---|
+| Renda considerada | R$ 2.500 (só ela, que mora sozinha) |
+| Faixa | 1 (até R$ 3.200, Portaria MCID nº 333/2026) |
+| Juros | de 4% a 5,25% a.a. |
+| Subsídio | até R$ 55 mil; o valor real depende da renda e do município e só sai na simulação da Caixa |
+| Prazo máximo | cerca de 13 anos (idade de 67 anos mais prazo não pode passar de 80 anos e 6 meses) |
+| Parcela máxima | cerca de R$ 750 (30% da renda) |
+| Financiamento possível | **R$ 67 mil a R$ 71 mil** (o seguro obrigatório é caro nessa idade) |
+| Teto do imóvel na Faixa 1 | de R$ 210 mil a R$ 275 mil, conforme o município (confirmar o valor de Praia Grande e de SP) |
+| **Imóvel possível com seus R$ 50 mil** | **R$ 120 mil a R$ 175 mil**, conforme o subsídio aprovado |
+
+O que compra:
+- Unidades de 35 a 45 m² em empreendimentos do MCMV, em geral longe da orla em Praia Grande (Sítio do Campo, Ribeirópolis, Quietude, Samambaia) e nas bordas da capital. Muitas sem vaga.
+- **Não compra** nada no Boqueirão, no Forte ou na Guilhermina. Nesses bairros, um 1 dormitório de 42 a 45 m² custa de R$ 250 mil a R$ 260 mil.
+
+Pontos fortes:
+- Juros de 4% a 5% contra 11% + TR no SBPE.
+- Subsídio, que é dinheiro que não volta.
+- Dívida quitada em 13 anos.
+- Sua capacidade de crédito fica intacta para você comprar o seu imóvel depois.
+
+Pontos fracos:
+- Valor baixo de imóvel.
+- O subsídio para **imóvel usado** é incerto. As fontes de 2026 divergem, e o desconto costuma valer para imóvel novo. Se não houver subsídio, o teto cai para cerca de R$ 120 mil.
+- **O condomínio pesa muito na renda dela.** Na orla de Praia Grande, ele vai de R$ 500 a R$ 1.200, ou seja, de 20% a 48% da aposentadoria. Ela ou você precisam arcar com isso.
+
+### Caminho 2: você compra no seu nome pelo SBPE, e ela mora no imóvel
+
+O imóvel fica em seu nome, e você cede o uso a ela por um contrato de comodato. Isso é legal: o financiamento é para fim residencial, e a residência pode ser de um familiar.
+
+| Situação | Imóvel | 1ª parcela SAC (sua) | Total em mãos |
+|---|---|---|---|
+| Hoje, com R$ 50 mil | até R$ 200 mil | R$ 1.890 | R$ 47 a 49 mil |
+| Juntando mais R$ 45 mil | até cerca de R$ 390 mil (2 dorm. com vaga na Guilhermina) | R$ 3.663 | R$ 90 a 93 mil |
+
+Pontos fortes:
+- Imóvel melhor e no bairro que ela quer.
+- O patrimônio fica no seu nome, sem divisão em inventário.
+- Não depende da idade dela.
+
+Pontos fracos:
+- Juros de cerca de 11% + TR, sem subsídio.
+- A parcela consome de 26% a 30% da sua renda por muitos anos.
+- Fica muito mais difícil você comprar o seu próprio imóvel depois.
+
+### Comparação direta
+
+| | Caminho 1 (mãe, MCMV) | Caminho 2 (você, SBPE) |
+|---|---|---|
+| Imóvel possível hoje | R$ 120 a 175 mil | até R$ 200 mil |
+| Imóvel possível juntando mais R$ 45 mil | R$ 165 a 220 mil | até R$ 390 mil |
+| Bairros desejados (Boqueirão, Forte, Guilhermina) | não | sim, com a entrada maior |
+| Parcela | cerca de R$ 750 | R$ 1.900 a R$ 3.700 |
+| Juros | 4% a 5,25% | cerca de 11% + TR |
+| Quitação | cerca de 13 anos | até 35 anos |
+| Seu crédito para comprar o seu imóvel | intacto | comprometido |
+| Herança | entra no inventário dela | já é seu |
+
+### Recomendação
+
+**Se ela aceitar morar fora da orla, num imóvel compacto, o Caminho 1 é o mais barato de longe.** Juros de 4% a 5%, subsídio e quitação em 13 anos. E você preserva a sua capacidade de crédito.
+
+**Se a prioridade for ela morar no Boqueirão, no Forte ou na Guilhermina, só o Caminho 2 chega lá**, e só depois de você juntar mais R$ 40 mil a R$ 45 mil.
+
+Antes de decidir, peça à Caixa uma simulação no CPF da sua mãe, como imóvel novo e como usado. É a única forma de saber o subsídio real dela. Se ele vier perto de R$ 55 mil, o Caminho 1 fica bem mais forte.
+
+### Cuidados no Caminho 1
+
+- **Os R$ 50 mil que você der a ela são uma doação.** Precisam aparecer no IR de vocês dois. Em São Paulo, doações de até 2.500 UFESPs (cerca de R$ 90 mil a R$ 95 mil) são isentas de ITCMD, mas é preciso registrar a declaração na Secretaria da Fazenda. Confirme o valor da UFESP em 2026.
+- **Herança:** a doação de pai ou mãe para filho, ou de filho para pai ou mãe, pode ser tratada como adiantamento de herança. Se você tiver irmãos, o imóvel vai a inventário e é dividido entre todos. Converse com um advogado de família se quiser deixar isso organizado.
+- **Pagar as parcelas por ela é permitido**, porque você não mora lá. Mas o banco aprova o contrato pela renda dela, e esse limite continua valendo.
+- **Para uma pessoa de 67 anos morando sozinha**, priorize elevador ou andar baixo, terreno plano, UBS e farmácia a pé e transporte por perto. Isso vale mais do que o segundo dormitório ou a vaga. Ela dirige? Se não, tirar a exigência de vaga amplia bastante as opções.
+- **Risco climático em Praia Grande:** prefira quadras fora das áreas de alagamento dos canais e evite o térreo.
+
+### Documentos adicionais da sua mãe
+
+- RG, CPF, certidão de estado civil e comprovante de residência
+- Extrato de benefício do INSS e três últimos comprovantes de pagamento da aposentadoria
+- Declaração de que não possui imóvel e de que nunca recebeu subsídio habitacional
+- Se houver doação sua: declaração de ITCMD e comprovante de transferência bancária
+
+Fontes desta seção:
+- Faixa 1 sobe para R$ 3.200 (Mix Vale): https://www.mixvale.com.br/2026/11/02/faixa-1-do-minha-casa-minha-vida-sobe-para-renda-de-r-3-200-em-2026-faixa/
+- Tetos das faixas 1 e 2 (Portas): https://portas.com.br/noticias/fgts-eleva-limite-do-minha-casa-minha-vida-para-r-275-mil/
+- Tabela MCMV 2026 (Valor Final): https://valorfinal.com.br/tabela-mcmv-2026
+- Guia MCMV 2026 (Itatiaia): https://www.itatiaia.com.br/economia/negocios/guia-minha-casa-minha-vida-2026-regras-valores-e-quem-pode-participar/
+- Ampliação de R$ 500 milhões em subsídios (Movimento Econômico): https://movimentoeconomico.com.br/habitacao/2026/09/11/mcmv-governo-amplia-em-r-500-milhoes-subsidios-para-habitacao-popular/
+- MCMV e imóvel usado (Larya): https://larya.com.br/blog/tag/mcmv/
+- Lei 14.620/2023, art. 6º: https://www.legjur.com/legislacao/art/lei_00146202023-5
+
+---
+
 ## 6. Documentos para o financiamento
 
 **Seus:**
