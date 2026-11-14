@@ -1,7 +1,7 @@
 # Busca de imóveis: diagnóstico e capacidade de compra
 
 Data das consultas: 13/11/2026
-Status: **diagnóstico concluído; busca de anúncios parcial** (acesso aos portais bloqueado nesta sessão, ver seção 2)
+Status: **diagnóstico concluído; busca em SP Imóvel, ZAP e VivaReal concluída para o imóvel da sua mãe** (seções 5A e 5B; atualizado em 14/11/2026)
 
 ---
 
@@ -235,7 +235,7 @@ Para renda de R$ 2.500, o subsídio deve ficar bem abaixo do máximo. Usei R$ 25
 
 Critérios: Praia Grande; perto da praia (até cerca de 4 quadras ou 500 m); 1 dormitório no mínimo, 2 se possível; pronto para morar; aceita financiamento; até cerca de R$ 215 mil.
 
-Fonte: SP Imóvel, com 572 anúncios lidos de Praia Grande e 59 abertos um a um. **ZAP e VivaReal bloqueiam acesso automatizado** (erro 403) e não foram consultados. Os dados são os que os anunciantes publicaram. O endereço exato só sai com o anunciante, e não fiz nenhum contato.
+Fonte: SP Imóvel, com 572 anúncios lidos de Praia Grande e 59 abertos um a um. Nesta primeira rodada, ZAP e VivaReal bloquearam o acesso automatizado (erro 403). Eles foram consultados depois, pelo seu Chrome (ver seção 5B). Os dados são os que os anunciantes publicaram. O endereço exato só sai com o anunciante, e não fiz nenhum contato.
 
 | # | Imóvel | Preço | Condomínio | Por que entra | Atenção | Você desembolsa (subsídio de 25 mil) | Nota |
 |---|---|---|---|---|---|---|---|
@@ -261,6 +261,54 @@ O preço é bom, mas imóvel retomado pode estar ocupado, ter dívida de condom�
 - Cerca de 35 anúncios entre R$ 220 mil e R$ 250 mil (Aviação, Vila Tupi, Canto do Forte, Real, Boqueirão): ficam acima do que os R$ 100 mil cobrem, salvo com subsídio máximo.
 
 **Leitura franca:** com R$ 100 mil e subsídio de cerca de R$ 25 mil, o orçamento fecha em torno de **R$ 180 mil**. Nenhum imóvel da lista cabe com folga. Os candidatos 1 e 5, de R$ 190 mil, ficam a cerca de R$ 9 mil do limite, uma diferença que se resolve negociando ou com subsídio um pouco maior. Para os de R$ 200 mil, você precisa de cerca de R$ 120 mil.
+
+### 5B. Busca no ZAP Imóveis e no VivaReal (14/11/2026)
+
+Desta vez a busca foi feita no seu Chrome, nos dois portais, com os mesmos critérios: Praia Grande, pronto para morar, 1 dormitório ou mais, até R$ 215 mil, até cerca de 4 quadras (450 m) da praia, aceita financiamento.
+
+**Como foi feita**
+- Cada portal listou cerca de 560 a 600 anúncios até R$ 215 mil. ZAP e VivaReal são do mesmo grupo e mostram o mesmo anúncio com o mesmo número; só 43 aparecem apenas no ZAP. O cruzamento foi feito por esse número.
+- Abri um por um os 322 anúncios entre R$ 120 mil e R$ 215 mil com 28 m² ou mais: 111 pelo VivaReal, até ele limitar o acesso (erro 429), e os outros 211 pelo ZAP.
+- **Entraram 90 imóveis novos**, todos com distância da praia declarada no anúncio, ou com endereço na orla, de até cerca de 450 m.
+- **Duplicados removidos:** três anúncios do ZAP já estavam na planilha pelo SP Imóvel (Caiçara 35 m², Jardim Imperador 30 m² e Boqueirão a 100 m do mar). Mantive a linha antiga e anotei o anúncio do ZAP; o do Boqueirão informa 42 m². Os dois imóveis da Caixa no Melvi também estão no ZAP, repetidos várias vezes. Uma corretora anuncia a mesma kitnet do Jardim Real duas vezes.
+- **Ficaram de fora:**
+  - Cerca de 170 anúncios que não dizem a distância da praia.
+  - Cerca de 25 a mais de 450 m da praia.
+  - Os que mostram como preço só a entrada. Exemplos: "150 mil de entrada e o saldo em 140 meses" e "parcelamento direto com a construtora". Quase todos os 2 dormitórios na orla abaixo de R$ 200 mil são desse tipo.
+  - Os só à vista, os na planta ou em obra, e os de leilão.
+- Os dados são os publicados pelos anunciantes. Em vários deles o preço do card e o do texto não batem, e o card do condomínio difere do texto; anotei isso na planilha. Não preenchi formulário nem fiz contato com ninguém.
+
+**Desembolso:** a conta é a mesma da seção 5A.
+
+> preço + ITBI de 2% + registro de 1,2% + R$ 3 mil de avaliação − R$ 65 mil do financiamento da sua mãe − subsídio
+
+A planilha traz as três colunas: sem subsídio, com R$ 25 mil e com R$ 55 mil.
+
+**Os melhores para ela**
+
+| # | Imóvel | Preço | Condomínio | Por que entra | Atenção | Sem subsídio | Subsídio 25 mil | Subsídio 55 mil |
+|---|---|---|---|---|---|---|---|---|
+| 1 | [Caiçara, 2 dorm., 65 m², 150 m da praia](https://www.zapimoveis.com.br/imovel/venda-apartamento-2-quartos-com-churrasqueira-vila-caicara-praia-grande-sp-65m2-id-2427716186/) | R$ 205 mil | R$ 270 | Único 2 dormitórios real perto da praia; vaga; escritura; aceita financiamento | Andar não informado | R$ 150 mil | R$ 125 mil | R$ 95 mil |
+| 2 | [Ocian, 40 m², térreo com rampa, 150 m](https://www.zapimoveis.com.br/imovel/venda-apartamento-1-quarto-cidade-ocian-praia-grande-sp-40m2-id-2922266432/) | R$ 200 mil | R$ 295 | Sem escada, rampa de acessibilidade, reformado, aceita financiamento | Térreo: ver se a rua alaga | R$ 144 mil | R$ 119 mil | R$ 89 mil |
+| 3 | [Tupi, 39 m², com elevador, 50 m](https://www.zapimoveis.com.br/imovel/venda-apartamento-1-quarto-vila-tupi-praia-grande-sp-39m2-id-2913731132/) | R$ 200 mil | R$ 370 | Elevador, portaria 24h, vista mar, aceita financiamento | Vaga não informada | R$ 144 mil | R$ 119 mil | R$ 89 mil |
+| 4 | [Guilhermina, 2 dorm., 55 m², frente mar](https://www.zapimoveis.com.br/imovel/venda-apartamento-2-quartos-com-frente-para-o-mar-vila-guilhermina-praia-grande-sp-55m2-id-2433017484/) | R$ 200 mil | R$ 390 | 2 dormitórios, reformado, no bairro que ela queria | Anúncio curto: andar, vaga e financiamento a confirmar | R$ 144 mil | R$ 119 mil | R$ 89 mil |
+| 5 | [Aviação, 39 m², com elevador, 50 m](https://www.zapimoveis.com.br/imovel/venda-quitinete-1-quarto-com-varanda-aviacao-praia-grande-sp-39m2-id-2869342998/) | R$ 205 mil | R$ 360 | Elevador, 1º andar, prédio frente mar | Financiamento não citado | R$ 150 mil | R$ 125 mil | R$ 95 mil |
+| 6 | [Aviação, 55 m², 200 m](https://www.zapimoveis.com.br/imovel/venda-apartamento-1-quarto-aviacao-praia-grande-sp-55m2-id-2893201230/) | R$ 210 mil | R$ 250 | O 1 dormitório mais espaçoso; condomínio baixo | 1º andar de escada | R$ 155 mil | R$ 130 mil | R$ 100 mil |
+| 7 | [Ocian, 45 m², com elevador, 150 m](https://www.zapimoveis.com.br/imovel/venda-apartamento-1-quarto-com-area-de-servico-vila-assuncao-praia-grande-sp-45m2-id-2765289527/) | R$ 215 mil | R$ 320 | Elevador, portaria 24h, vaga | No teto de preço | R$ 160 mil | R$ 135 mil | R$ 105 mil |
+| 8 | [Guilhermina, 42 m², 400 m](https://www.zapimoveis.com.br/imovel/venda-apartamento-1-quarto-vila-guilhermina-praia-grande-sp-42m2-id-2858345960/) | R$ 160 mil | R$ 420 | O mais barato com boa metragem: cabe nos seus R$ 100 mil com subsídio de R$ 25 mil | Anúncio de uma linha; andar e vaga não informados | R$ 103 mil | R$ 78 mil | R$ 48 mil |
+| 9 | [Boqueirão, 35 m², 100 m, vista mar](https://www.zapimoveis.com.br/imovel/venda-apartamento-1-quarto-boqueirao-praia-grande-sp-35m2-id-2551229065/) | R$ 179 mil | R$ 320 | Boqueirão perto do mar, portaria 24h, cabe no orçamento com subsídio de R$ 25 mil | Andar não informado | R$ 123 mil | R$ 98 mil | R$ 68 mil |
+| 10 | [Canto do Forte, 40 m², 2 quadras](https://www.zapimoveis.com.br/imovel/venda-apartamento-1-quarto-canto-do-forte-praia-grande-sp-40m2-id-2881295980/) | R$ 186 mil | R$ 390 | Bairro desejado, portaria remota 24h | Andar não informado | R$ 130 mil | R$ 105 mil | R$ 75 mil |
+
+Os outros 80 novos estão na planilha com nota de 2 a 7, ao lado dos 10 da rodada anterior. A maioria é kitnet de 28 a 35 m².
+
+**Leitura franca desta rodada**
+- **Para R$ 100 mil, os que cabem com subsídio de R$ 25 mil são poucos e pequenos.** Os melhores são o nº 8 (Guilhermina, 42 m², R$ 160 mil) e o nº 9 (Boqueirão, 35 m², R$ 179 mil). Os outros de R$ 190 a 200 mil pedem de R$ 110 a 120 mil.
+- **2 dormitórios perto da praia até R$ 215 mil quase não existem.** Os dois reais (nº 1 e nº 4) pedem cerca de R$ 120 a 125 mil com subsídio de R$ 25 mil, ou R$ 90 a 95 mil com o subsídio máximo.
+- **Para a idade dela, olhe primeiro os nº 2, 3, 5 e 7** (térreo com rampa ou prédio com elevador). Quase todas as kitnets da lista ficam em prédio de escada.
+- **Antes de visitar, confirme três coisas com o anunciante:**
+  1. Se aceita financiamento pela Caixa no MCMV. Mais da metade dos anúncios não diz.
+  2. O valor real do condomínio.
+  3. Se o imóvel tem habite-se e matrícula regular.
 
 ### Caminho 2 (descartado por decisão sua): você compra no seu nome pelo SBPE, e ela mora no imóvel
 
