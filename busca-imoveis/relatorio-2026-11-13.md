@@ -185,6 +185,26 @@ Pontos fracos:
 - O subsídio para **imóvel usado** é incerto. As fontes de 2026 divergem, e o desconto costuma valer para imóvel novo. Se não houver subsídio, o teto cai para cerca de R$ 120 mil.
 - **O condomínio pesa muito na renda dela.** Na orla de Praia Grande, ele vai de R$ 500 a R$ 1.200, ou seja, de 20% a 48% da aposentadoria. Ela ou você precisam arcar com isso.
 
+### Confirmação em fonte oficial (consulta de 14/11/2026)
+
+Fonte: Ministério das Cidades, página "Minha Casa, Minha Vida – Linha Financiada", atualizada em 28/10/2026 (https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/habitacao/programa-minha-casa-minha-vida/mcmv-fgts), e notícia do Ministério sobre a decisão do Conselho Curador do FGTS de 18/12/2025, em vigor desde 01/01/2026 (https://www.gov.br/cidades/pt-br/assuntos/noticias-1/noticia-mcid-n-1831).
+
+**Juros da sua mãe (confirmado):** a renda de R$ 2.500 está no segmento de R$ 2.160,01 a R$ 2.850 da Faixa 1. No Sudeste, a taxa é de **5,00% a.a.** para quem não é cotista do FGTS e de 4,50% para cotista. Com 5%, a parcela de R$ 750 em 157 meses financia de **R$ 63 mil a R$ 67 mil**.
+
+**Imóvel usado (confirmado):** a linha financiada do FGTS aceita imóvel novo, em construção ou usado. Não é necessário ter saldo de FGTS.
+
+**Subsídio (confirmado):** até R$ 55 mil no Sudeste, calculado pela renda e pelo local. Quanto menor a renda, maior o desconto. O valor exato só sai na simulação.
+
+**Teto do imóvel nas Faixas 1 e 2 (parcialmente confirmado):** vai de R$ 210 mil a R$ 275 mil, conforme o município. Pela decisão de dezembro de 2025:
+- Metrópoles com mais de 750 mil habitantes: R$ 270 mil (a decisão de novembro de 2025 elevou as maiores cidades para R$ 275 mil)
+- Capitais regionais com mais de 750 mil habitantes: R$ 260 mil
+- Metrópoles e capitais regionais com 300 mil a 750 mil habitantes: R$ 255 mil
+
+**São Paulo (capital):** fica no recorte mais alto, provavelmente R$ 275 mil.
+**Praia Grande:** cerca de 350 mil habitantes, no arranjo urbano de Santos. Deve ficar entre **R$ 255 mil e R$ 275 mil**, conforme o enquadramento dado pelo IBGE.
+
+O valor exato de cada município está na tabela oficial do Agente Operador do FGTS (https://www.caixa.gov.br/Downloads/fgts-tabela-municipios/TABELA_MUNICIPIOS_VIGENCIA_01JAN2026.xlsx). Não consegui baixá-la nesta sessão. **Para o orçamento da sua mãe, esse detalhe não muda nada:** com R$ 50 mil a R$ 100 mil de entrada, o imóvel dela fica entre R$ 115 mil e R$ 222 mil, abaixo de qualquer um desses tetos.
+
 ### Decisão tomada: imóvel no nome dela, com doação sua e parcelas pagas por você
 
 Tudo fica no nome da sua mãe: imóvel, contrato e renda. Você entra só com a doação da entrada e paga as parcelas. O banco aprova pela renda dela, então a parcela máxima continua em cerca de R$ 750, mesmo sendo você quem paga.
