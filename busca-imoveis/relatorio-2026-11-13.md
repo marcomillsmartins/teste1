@@ -429,3 +429,16 @@ Preços por bairro (secundárias):
 - Valor do m² em Praia Grande (MySide): https://myside.com.br/guia-imoveis/valor-metro-quadrado-praia-grande-sp
 
 **Limitações:** as páginas do gov.br, da Caixa e dos portais não abriram por bloqueio de rede da sessão. As informações vieram dos trechos indexados pelo buscador. Antes de assinar qualquer coisa, confirme taxa, cota e a renda que o banco reconhece no simulador oficial e com o gerente.
+
+---
+
+## Atualização de critérios (14/11/2026)
+
+A distância da praia **deixa de eliminar** imóveis. Ela continua anotada em cada anúncio e entra como um fator a mais na nota, ao lado de:
+- UBS, farmácia e mercado a até cerca de 10 minutos a pé;
+- ponto de ônibus próximo;
+- rua fora de área de alagamento;
+- elevador, ou térreo/1º andar;
+- condomínio de até R$ 400.
+
+Continuam eliminatórios: imóvel na planta ou em obra, leilão, cessão de direitos sem escritura, pagamento só à vista, menos de 28 m² e preço acima de R$ 215 mil.
