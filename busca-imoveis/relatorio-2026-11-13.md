@@ -219,6 +219,49 @@ Limite: o imóvel não pode passar do teto da Faixa 1 no município (R$ 210 mil 
 
 ITCMD: R$ 100 mil de doação, mais as parcelas pagas por você, podem passar do limite de isenção de 2.500 UFESPs. Confirme na Secretaria da Fazenda de SP se o limite vale por ano e se o imposto, quando o limite é ultrapassado, incide sobre o total ou só sobre o excedente. A alíquota é de 4%.
 
+### Correção de conta: os custos de compra saem dos seus R$ 100 mil
+
+ITBI (cerca de 2% em Praia Grande, a confirmar na Prefeitura), registro (cerca de 1,2%) e avaliação (cerca de R$ 3 mil) também saem da sua doação. Com o financiamento dela em cerca de R$ 65 mil, o imóvel máximo fica assim:
+
+| Subsídio aprovado | Imóvel máximo com R$ 50 mil | Imóvel máximo com R$ 100 mil |
+|---|---|---|
+| R$ 0 | R$ 109 mil | R$ 157 mil |
+| R$ 25 mil | R$ 133 mil | R$ 181 mil |
+| R$ 55 mil (máximo) | R$ 162 mil | R$ 210 mil |
+
+Para renda de R$ 2.500, o subsídio deve ficar bem abaixo do máximo. Usei R$ 25 mil como cenário central. **Só a simulação da Caixa no CPF dela dá o número real.**
+
+### Imóveis encontrados para sua mãe (busca de 14/11/2026)
+
+Critérios: Praia Grande; perto da praia (até cerca de 4 quadras ou 500 m); 1 dormitório no mínimo, 2 se possível; pronto para morar; aceita financiamento; até cerca de R$ 215 mil.
+
+Fonte: SP Imóvel, com 572 anúncios lidos de Praia Grande e 59 abertos um a um. **ZAP e VivaReal bloqueiam acesso automatizado** (erro 403) e não foram consultados. Os dados são os que os anunciantes publicaram. O endereço exato só sai com o anunciante, e não fiz nenhum contato.
+
+| # | Imóvel | Preço | Condomínio | Por que entra | Atenção | Você desembolsa (subsídio de 25 mil) | Nota |
+|---|---|---|---|---|---|---|---|
+| 1 | [Guilhermina, 32 m², térreo, zona 1](https://www.spimovel.com.br/imovel/apartamento-venda-180mil-ate-210mil-1quarto-1vaga-32m2-guilhermina-praia-grande-sao-paulo-sp/4564840/) | R$ 190 mil | R$ 400 | Térreo, sem escada; reformado; lado praia; bairro que ela queria | Térreo em cidade que alaga: ver a cota da rua | R$ 109 mil | 8 |
+| 2 | [Caiçara, 35 m², a 100 m da praia](https://www.spimovel.com.br/imovel/kitnet-loft-venda-180mil-ate-210mil-1quarto-1vaga-35m2-caicara-praia-grande-sao-paulo-sp/4551864/) | R$ 200 mil | R$ 380 | Muito perto do mar; vaga própria; documentação declarada em ordem | Sem elevador, andar não informado | R$ 119 mil | 7 |
+| 3 | [Vila Tupi, 42 m², reformado](https://www.spimovel.com.br/imovel/apartamento-venda-180mil-ate-210mil-1quarto-1vaga-42m2-vila-tupi-praia-grande-sao-paulo-sp/4560939/) | R$ 200 mil | não informado | Maior área por esse preço (R$ 4.762/m²) | Distância da praia e condomínio não informados | R$ 119 mil | 7 |
+| 4 | [Canto do Forte, 28 m²](https://www.spimovel.com.br/imovel/apartamento-venda-180mil-ate-210mil-1quarto-1vaga-28m2-canto-do-forte-praia-grande-sao-paulo-sp/4564351/) | R$ 197 mil | R$ 332 | Bairro desejado; declarada regularizada; portaria 24h | Pequeno; prédio de escada | R$ 116 mil | 6 |
+| 5 | [Guilhermina, 4 quadras da praia](https://www.spimovel.com.br/imovel/kitnet-loft-venda-180mil-ate-210mil-1quarto-guilhermina-praia-grande-sao-paulo-sp/4561776/) | R$ 190 mil | R$ 216 | Condomínio mais baixo da lista | Metragem não informada | R$ 109 mil | 6 |
+| 6 | [Guilhermina/Aviação, 48 m², com elevador](https://www.spimovel.com.br/imovel/kitnet-loft-venda-210mil-ate-250mil-1quarto-48m2-guilhermina-praia-grande-sao-paulo-sp/4561385/) | R$ 215 mil | R$ 359 | Elevador e 48 m²: o mais adequado para a idade dela | Acima do orçamento sem subsídio alto; o anúncio cita dois bairros | R$ 135 mil | 6 |
+| 7 | [Jardim Imperador, 30 m², a 250 m da praia](https://www.spimovel.com.br/imovel/kitnet-loft-venda-180mil-ate-210mil-1quarto-1vaga-30m2-imperador-praia-grande-sao-paulo-sp/4557708/) | R$ 200 mil | R$ 400 | Perto da praia | Sem elevador | R$ 119 mil | 5 |
+| 8 | [Boqueirão, a 100 m do mar](https://www.spimovel.com.br/imovel/kitnet-loft-venda-210mil-ate-250mil-1quarto-1vaga-boqueirao-praia-grande-sao-paulo-sp/4560167/) | R$ 213 mil | R$ 300 | Boqueirão perto do mar | Anúncio quase sem dados | R$ 133 mil | 5 |
+
+**Dois apartamentos de 2 dormitórios, mas com ressalva forte.** São imóveis retomados pela Caixa e vendidos direto pelo banco:
+- [Balneário ABC, 47 m², R$ 159 mil](https://www.spimovel.com.br/imovel/apartamento-venda-150mil-ate-180mil-2quartos-47m2-melvi-praia-grande-sao-paulo-sp/4563567/)
+- [Maracanã, 54 m² com vaga, R$ 195 mil](https://www.spimovel.com.br/imovel/apartamento-venda-180mil-ate-210mil-2quartos-1vaga-54m2-melvi-praia-grande-sao-paulo-sp/4563549/)
+
+O preço é bom, mas imóvel retomado pode estar ocupado, ter dívida de condomínio e IPTU, e é vendido no estado em que se encontra. Não está claro se o subsídio do MCMV se aplica nesse caso, e a distância da praia não foi informada. Só vale olhar com a ficha oficial no site de imóveis da Caixa e visita ao local.
+
+**Descartados:**
+- [Caiçara, 48 m², vista mar, R$ 225 mil](https://www.spimovel.com.br/imovel/apartamento-venda-210mil-ate-250mil-1quarto-1vaga-48m2-caicara-praia-grande-sao-paulo-sp/4564795/): é na planta, com entrega em dez/2027.
+- [Solemar, 47 m², R$ 220 mil](https://www.spimovel.com.br/imovel/apartamento-venda-210mil-ate-250mil-1quarto-1vaga-47m2-solemar-praia-grande-sao-paulo-sp/4564831/): só aceita pagamento à vista.
+- Kitnets de 20 a 23 m² no Ocian, Caiçara e Guilhermina (R$ 135 mil a R$ 190 mil): pequenas demais para morar sozinha com conforto aos 67 anos.
+- Cerca de 35 anúncios entre R$ 220 mil e R$ 250 mil (Aviação, Vila Tupi, Canto do Forte, Real, Boqueirão): ficam acima do que os R$ 100 mil cobrem, salvo com subsídio máximo.
+
+**Leitura franca:** com R$ 100 mil e subsídio de cerca de R$ 25 mil, o orçamento fecha em torno de **R$ 180 mil**. Nenhum imóvel da lista cabe com folga. Os candidatos 1 e 5, de R$ 190 mil, ficam a cerca de R$ 9 mil do limite, uma diferença que se resolve negociando ou com subsídio um pouco maior. Para os de R$ 200 mil, você precisa de cerca de R$ 120 mil.
+
 ### Caminho 2 (descartado por decisão sua): você compra no seu nome pelo SBPE, e ela mora no imóvel
 
 O imóvel fica em seu nome, e você cede o uso a ela por um contrato de comodato. Isso é legal: o financiamento é para fim residencial, e a residência pode ser de um familiar.
