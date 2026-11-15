@@ -148,7 +148,6 @@ Descartados nesta etapa: todos os bairros de São Paulo da sua lista, pelos moti
 1. Saber quanto da sua renda o banco vai reconhecer, se você não for CLT.
 2. Simular no site da Caixa e de mais dois bancos, com sua renda real e o valor de um imóvel de referência.
 
-**Sobre Praia Grande como moradia permanente**, um alerta técnico: a orla está exposta a ressacas, erosão costeira e elevação do nível do mar, e partes da Guilhermina e do Forte mais próximas dos canais alagam quando chuva forte coincide com maré alta. Num financiamento de 35 anos, isso pesa no valor de revenda e no seguro. Antes de qualquer endereço, consulte a carta de suscetibilidade a inundações do município e prefira imóveis em quadras mais altas e andares acima do térreo.
 
 ---
 
@@ -239,7 +238,7 @@ Fonte: SP Imóvel, com 572 anúncios lidos de Praia Grande e 59 abertos um a um.
 
 | # | Imóvel | Preço | Condomínio | Por que entra | Atenção | Você desembolsa (subsídio de 25 mil) | Nota |
 |---|---|---|---|---|---|---|---|
-| 1 | [Guilhermina, 32 m², térreo, zona 1](https://www.spimovel.com.br/imovel/apartamento-venda-180mil-ate-210mil-1quarto-1vaga-32m2-guilhermina-praia-grande-sao-paulo-sp/4564840/) | R$ 190 mil | R$ 400 | Térreo, sem escada; reformado; lado praia; bairro que ela queria | Térreo em cidade que alaga: ver a cota da rua | R$ 109 mil | 8 |
+| 1 | [Guilhermina, 32 m², térreo, zona 1](https://www.spimovel.com.br/imovel/apartamento-venda-180mil-ate-210mil-1quarto-1vaga-32m2-guilhermina-praia-grande-sao-paulo-sp/4564840/) | R$ 190 mil | R$ 400 | Térreo, sem escada; reformado; lado praia; bairro que ela queria | Térreo: ver se há degraus na entrada do prédio | R$ 109 mil | 8 |
 | 2 | [Caiçara, 35 m², a 100 m da praia](https://www.spimovel.com.br/imovel/kitnet-loft-venda-180mil-ate-210mil-1quarto-1vaga-35m2-caicara-praia-grande-sao-paulo-sp/4551864/) | R$ 200 mil | R$ 380 | Muito perto do mar; vaga própria; documentação declarada em ordem | Sem elevador, andar não informado | R$ 119 mil | 7 |
 | 3 | [Vila Tupi, 42 m², reformado](https://www.spimovel.com.br/imovel/apartamento-venda-180mil-ate-210mil-1quarto-1vaga-42m2-vila-tupi-praia-grande-sao-paulo-sp/4560939/) | R$ 200 mil | não informado | Maior área por esse preço (R$ 4.762/m²) | Distância da praia e condomínio não informados | R$ 119 mil | 7 |
 | 4 | [Canto do Forte, 28 m²](https://www.spimovel.com.br/imovel/apartamento-venda-180mil-ate-210mil-1quarto-1vaga-28m2-canto-do-forte-praia-grande-sao-paulo-sp/4564351/) | R$ 197 mil | R$ 332 | Bairro desejado; declarada regularizada; portaria 24h | Pequeno; prédio de escada | R$ 116 mil | 6 |
@@ -289,7 +288,7 @@ A planilha traz as três colunas: sem subsídio, com R$ 25 mil e com R$ 55 mil.
 | # | Imóvel | Preço | Condomínio | Por que entra | Atenção | Sem subsídio | Subsídio 25 mil | Subsídio 55 mil |
 |---|---|---|---|---|---|---|---|---|
 | 1 | [Caiçara, 2 dorm., 65 m², 150 m da praia](https://www.zapimoveis.com.br/imovel/venda-apartamento-2-quartos-com-churrasqueira-vila-caicara-praia-grande-sp-65m2-id-2427716186/) | R$ 205 mil | R$ 270 | Único 2 dormitórios real perto da praia; vaga; escritura; aceita financiamento | Andar não informado | R$ 150 mil | R$ 125 mil | R$ 95 mil |
-| 2 | [Ocian, 40 m², térreo com rampa, 150 m](https://www.zapimoveis.com.br/imovel/venda-apartamento-1-quarto-cidade-ocian-praia-grande-sp-40m2-id-2922266432/) | R$ 200 mil | R$ 295 | Sem escada, rampa de acessibilidade, reformado, aceita financiamento | Térreo: ver se a rua alaga | R$ 144 mil | R$ 119 mil | R$ 89 mil |
+| 2 | [Ocian, 40 m², térreo com rampa, 150 m](https://www.zapimoveis.com.br/imovel/venda-apartamento-1-quarto-cidade-ocian-praia-grande-sp-40m2-id-2922266432/) | R$ 200 mil | R$ 295 | Sem escada, rampa de acessibilidade, reformado, aceita financiamento | Vaga não informada | R$ 144 mil | R$ 119 mil | R$ 89 mil |
 | 3 | [Tupi, 39 m², com elevador, 50 m](https://www.zapimoveis.com.br/imovel/venda-apartamento-1-quarto-vila-tupi-praia-grande-sp-39m2-id-2913731132/) | R$ 200 mil | R$ 370 | Elevador, portaria 24h, vista mar, aceita financiamento | Vaga não informada | R$ 144 mil | R$ 119 mil | R$ 89 mil |
 | 4 | [Guilhermina, 2 dorm., 55 m², frente mar](https://www.zapimoveis.com.br/imovel/venda-apartamento-2-quartos-com-frente-para-o-mar-vila-guilhermina-praia-grande-sp-55m2-id-2433017484/) | R$ 200 mil | R$ 390 | 2 dormitórios, reformado, no bairro que ela queria | Anúncio curto: andar, vaga e financiamento a confirmar | R$ 144 mil | R$ 119 mil | R$ 89 mil |
 | 5 | [Aviação, 39 m², com elevador, 50 m](https://www.zapimoveis.com.br/imovel/venda-quitinete-1-quarto-com-varanda-aviacao-praia-grande-sp-39m2-id-2869342998/) | R$ 205 mil | R$ 360 | Elevador, 1º andar, prédio frente mar | Financiamento não citado | R$ 150 mil | R$ 125 mil | R$ 95 mil |
@@ -355,8 +354,7 @@ Antes de decidir, peça à Caixa uma simulação no CPF da sua mãe, como imóve
 - **Os R$ 50 mil que você der a ela são uma doação.** Precisam aparecer no IR de vocês dois. Em São Paulo, doações de até 2.500 UFESPs (cerca de R$ 90 mil a R$ 95 mil) são isentas de ITCMD, mas é preciso registrar a declaração na Secretaria da Fazenda. Confirme o valor da UFESP em 2026.
 - **Herança:** a doação de pai ou mãe para filho, ou de filho para pai ou mãe, pode ser tratada como adiantamento de herança. Se você tiver irmãos, o imóvel vai a inventário e é dividido entre todos. Converse com um advogado de família se quiser deixar isso organizado.
 - **Pagar as parcelas por ela é permitido**, porque você não mora lá. Mas o banco aprova o contrato pela renda dela, e esse limite continua valendo.
-- **Para uma pessoa de 67 anos morando sozinha**, priorize elevador ou andar baixo, terreno plano, UBS e farmácia a pé e transporte por perto. Isso vale mais do que o segundo dormitório ou a vaga. Ela dirige? Se não, tirar a exigência de vaga amplia bastante as opções.
-- **Risco climático em Praia Grande:** prefira quadras fora das áreas de alagamento dos canais e evite o térreo.
+- **Para uma pessoa de 67 anos morando sozinha**, priorize elevador ou andar baixo, UBS e farmácia a pé e transporte por perto. Isso vale mais do que o segundo dormitório ou a vaga. Ela dirige? Se não, tirar a exigência de vaga amplia bastante as opções.
 
 ### Documentos adicionais da sua mãe
 
@@ -442,3 +440,121 @@ A distância da praia **deixa de eliminar** imóveis. Ela continua anotada em ca
 - condomínio de até R$ 400.
 
 Continuam eliminatórios: imóvel na planta ou em obra, leilão, cessão de direitos sem escritura, pagamento só à vista, menos de 28 m² e preço acima de R$ 215 mil.
+
+---
+
+## 5C. Nova rodada com os critérios atualizados (14 e 15/11/2026)
+
+**O que mudou em relação à seção anterior**
+- **Faixa de preço:** você pediu para ir até R$ 250 mil, em duas faixas (até R$ 215 mil e de R$ 215 a 250 mil). Isso prevalece sobre o limite de R$ 215 mil da seção de critérios acima.
+- **Distância da praia:** deixou de eliminar. Agora é anotada e entra na nota, junto com os outros fatores.
+- **Alagamento e maresia:** saíram da análise por decisão sua. Não entram na nota nem nos alertas, e tirei essas menções das seções anteriores.
+
+### Fontes e quanto foi lido
+
+| Fonte | Anúncios listados até R$ 250 mil | Lidos por inteiro | Observação |
+|---|---|---|---|
+| ZAP e VivaReal | cerca de 1.360 | cerca de 1.035 | Os dois portais têm os mesmos anúncios, com o mesmo número. O VivaReal limitou o acesso duas vezes (erro 429), e a fila passou para o ZAP. |
+| OLX | 2.048 | 227 | Abri os de 2 dormitórios ou mais e os vendidos direto pelo proprietário. A maior parte do resto é das mesmas imobiliárias do ZAP. |
+| Imovelweb | 3.265 | 270, só o resumo | Lista geral (87) e 183 dos 199 de 2 dormitórios. O portal pediu verificação anti-robô; não contornei. |
+| Google | — | — | Nenhum anúncio de imóvel pronto cita o Minha Casa, Minha Vida. Os prédios novos de padrão popular aparecem no Princesa, Vila Sônia, Quietude e Nova Mirim. |
+
+Não abri as kitnets de até 32 m² com preço acima de R$ 215 mil (134 anúncios): pagar isso por uma kitnet não faz sentido para ela.
+
+### Eliminados
+
+| Motivo | Quantos |
+|---|---|
+| Preço do anúncio é só a entrada ("entrada de…", "saldo em X meses", "pega as chaves") | 157 |
+| Preço irreal, abaixo de R$ 120 mil (entrada, lance ou erro de digitação) | 102 |
+| Repasse de financiamento, CDHU ou imóvel da Caixa vendido por intermediário | 30 |
+| Só à vista | 25 |
+| Outra cidade (Santos, São Vicente, Guarujá) | 21 |
+| Na planta ou em obra | 19 |
+| Preço por m² muito abaixo do mercado (provável entrada) | 17 |
+| Menos de 28 m² | 9 |
+| Leilão ou imóvel retomado | 8 |
+| Cessão de direitos ou sem escritura | 1 |
+
+**Duplicados:** 167 anúncios repetidos entre portais foram removidos. O cruzamento foi feito pelo número do anúncio, por preço com metragem, condomínio e bairro, e pelo texto da descrição. Quando o mesmo imóvel aparece em mais de um lugar, a planilha mostra os outros links na coluna "também anunciado em". Os dois imóveis da Caixa no Melvi, da seção 5A, saíram por serem retomados.
+
+**Resultado:** a planilha passou a ter **980 imóveis**: 351 até R$ 215 mil e 629 de R$ 215 a 250 mil. Inclui os cerca de 195 anúncios que antes ficavam de fora só pela distância.
+
+### Como a nota é calculada (de 0 a 10)
+
+A nota parte de 4 e soma ou subtrai pontos:
+
+| Fator | Pontos |
+|---|---|
+| 2 dormitórios | +2 |
+| Condomínio de até R$ 400 | +1 |
+| Condomínio acima de R$ 550 | −1 |
+| Elevador, térreo ou 1º andar | +1,5 |
+| Escada até o 3º andar ou mais | −1 |
+| Praia a até 300 m | +1,5 |
+| Praia a até 600 m | +1 |
+| Praia a até 1 km | +0,5 |
+| Praia a mais de 2 km | −0,5 |
+| Cada menção a saúde (UBS, posto, hospital), comércio (mercado, farmácia) ou ônibus | +0,5 |
+| Aceita financiamento no anúncio | +0,5 |
+| 45 m² ou mais | +0,5 |
+| Menos de 32 m² | −0,5 |
+| Preço do texto diferente do preço anunciado | −1 |
+
+**Distância da praia:** quando o anúncio não informa, estimei pela localização do anúncio no mapa, medindo até a orla (Av. Castelo Branco). A coluna "origem da distância" diz qual é o caso. A estimativa pode errar em uns 150 m, porque muitos anúncios mostram só a localização aproximada.
+
+### Descontos e quanto você precisaria doar
+
+A planilha traz o preço com 5% e com 10% de desconto. A doação nos três cenários de subsídio aparece para o preço anunciado, para o preço com 5% e para o preço com 10%. A conta é a mesma da seção 5A:
+
+> preço + ITBI de 2% + registro de 1,2% + R$ 3 mil de avaliação − R$ 65 mil do financiamento dela − subsídio
+
+Cada R$ 10 mil de desconto reduz a doação em cerca de R$ 10,3 mil.
+
+### Melhores até R$ 215 mil
+
+| Nota | Imóvel | Preço | −5% | −10% | Cond. | Praia | Acesso | Doação sem subsídio | Com 25 mil | Com 55 mil | Atenção |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 10 | [Guilhermina, 2 dorm., 55 m², frente mar](https://www.vivareal.com.br/imovel/apartamento-2-quartos-vila-guilhermina-bairros-praia-grande-55m2-venda-RS200000-id-2433017484/) | R$ 200 mil | 190 | 180 | R$ 390 | frente | não informado | R$ 144 mil | R$ 119 mil | R$ 89 mil | Financiamento não citado |
+| 10 | [Caiçara, 2 dorm., 65 m², vaga](https://www.vivareal.com.br/imovel/apartamento-2-quartos-vila-caicara-bairros-praia-grande-com-garagem-65m2-venda-RS205000-id-2427716186/) | R$ 205 mil | 195 | 185 | R$ 270 | 150 m | não informado | R$ 150 mil | R$ 125 mil | R$ 95 mil | — |
+| 9 | [Ocian, 40 m², térreo com rampa](https://www.vivareal.com.br/imovel/apartamento-1-quartos-cidade-ocian-bairros-praia-grande-40m2-venda-RS200000-id-2922266432/) | R$ 200 mil | 190 | 180 | R$ 300 | 150 m | térreo | R$ 144 mil | R$ 119 mil | R$ 89 mil | — |
+| 9 | [Ocian, 40 m², elevador e portaria 24h](https://www.vivareal.com.br/imovel/apartamento-1-quartos-cidade-ocian-bairros-praia-grande-com-garagem-40m2-venda-RS210000-id-2887847185/) | R$ 210 mil | 200 | 189 | R$ 330 | ~300 m | elevador | R$ 155 mil | R$ 130 mil | R$ 100 mil | Financiamento não citado |
+| 9 | [Nova Mirim, 2 dorm., 68 m²](https://www.vivareal.com.br/imovel/apartamento-2-quartos-nova-mirim-bairros-praia-grande-com-garagem-68m2-venda-RS205000-id-2921396847/) | R$ 205 mil | 195 | 185 | R$ 180 | ~1,1 km | não informado | R$ 150 mil | R$ 125 mil | R$ 95 mil | Longe da praia |
+| 9 | [Nova Mirim, 2 dorm., 68 m² (Imovelweb)](https://www.imovelweb.com.br/propriedades/apartamento-a-venda-na-mirim-em-praia-grande-sp-3042417306.html) | R$ 190 mil | 181 | 171 | R$ 200 | não informada | não informado | R$ 134 mil | R$ 109 mil | R$ 79 mil | Preço citado é à vista |
+| 9 | [Caiçara, 35 m², térreo](https://www.vivareal.com.br/imovel/apartamento-1-quartos-vila-caicara-bairros-praia-grande-com-garagem-35m2-venda-RS209590-id-2919865864/) | R$ 210 mil | 199 | 189 | R$ 370 | 200 m | térreo | R$ 154 mil | R$ 129 mil | R$ 99 mil | — |
+| 9 | [Maracanã, 33 m², térreo](https://www.vivareal.com.br/imovel/apartamento-1-quartos-maracana-bairros-praia-grande-33m2-venda-RS174710-id-2920584001/) | R$ 175 mil | 166 | 157 | R$ 300 | ~100 m | térreo | R$ 118 mil | R$ 93 mil | R$ 63 mil | Sem vaga |
+| 9 | [Jardim Real, 34 m², térreo, frente mar](https://www.vivareal.com.br/imovel/kitnet-1-quartos-jardim-real-bairros-praia-grande-com-garagem-34m2-venda-RS185000-id-2838451716/) | R$ 185 mil | 176 | 167 | R$ 210 | frente | térreo | R$ 129 mil | R$ 104 mil | R$ 74 mil | Financiamento não citado |
+| 8 | [Jardim Princesa, 2 dorm., 53 m²](https://www.imovelweb.com.br/propriedades/apartamento-a-venda-no-jardim-princesa-em-praia-3048374594.html) | R$ 150 mil | 143 | 135 | R$ 412 | não informada | não informado | R$ 93 mil | R$ 68 mil | R$ 38 mil | Prédio novo de padrão popular; preço à vista |
+
+### Melhores de R$ 215 a 250 mil
+
+| Nota | Imóvel | Preço | −5% | −10% | Cond. | Praia | Acesso | Doação sem subsídio | Com 25 mil | Com 55 mil | Atenção |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 10 | [Guilhermina, 50 m², elevador, na orla](https://www.zapimoveis.com.br/imovel/venda-apartamento-1-quarto-com-elevador-vila-guilhermina-praia-grande-sp-50m2-id-2553455648/) | R$ 225 mil | 214 | 203 | R$ 330 | orla | elevador | R$ 170 mil | R$ 145 mil | R$ 115 mil | — |
+| 10 | [Canto do Forte, 2 dorm., 50 m²](https://www.zapimoveis.com.br/imovel/venda-apartamento-2-quartos-com-cozinha-canto-do-forte-praia-grande-sp-50m2-id-2869385093/) | R$ 225 mil | 214 | 203 | R$ 180 | ~900 m | não informado | R$ 170 mil | R$ 145 mil | R$ 115 mil | — |
+| 10 | [Guilhermina, 2 dorm., 60 m², térreo, 3 quadras](https://www.imovelweb.com.br/propriedades/apartamento-para-venda-por-r$230.000-00-com-60m-2-3023366266.html) | R$ 230 mil | 219 | 207 | R$ 484 | 330 m | térreo | R$ 175 mil | R$ 150 mil | R$ 120 mil | Lido só o resumo |
+| 10 | [Mirim, 2 dorm., 58 m², térreo (OLX)](https://sp.olx.com.br/baixada-santista-e-litoral-sul/imoveis/apartamento-com-2-dormitorios-a-venda-58-m-por-r-235-000-mirim-praia-grande-sp-1442121457) | R$ 235 mil | 223 | 212 | R$ 250 | não informada | térreo | R$ 181 mil | R$ 156 mil | R$ 126 mil | — |
+| 10 | [Canto do Forte, 2 dorm., 50 m², lado praia](https://www.zapimoveis.com.br/imovel/venda-apartamento-2-quartos-canto-do-forte-praia-grande-sp-50m2-id-2614459959/) | R$ 240 mil | 228 | 216 | R$ 349 | orla (estimada) | não informado | R$ 186 mil | R$ 161 mil | R$ 131 mil | Financiamento não citado |
+| 10 | [Guilhermina, 2 dorm., 52 m², 1º andar](https://www.zapimoveis.com.br/imovel/venda-apartamento-2-quartos-vila-guilhermina-praia-grande-sp-52m2-id-2761808041/) | R$ 240 mil | 228 | 216 | não informado | 500 m | 1º andar | R$ 186 mil | R$ 161 mil | R$ 131 mil | Ao lado de corredor de ônibus |
+| 10 | [Boqueirão/Canto do Forte, 2 dorm., 51 m²](https://www.zapimoveis.com.br/imovel/venda-apartamento-2-quartos-boqueirao-praia-grande-sp-51m2-id-2893199738/) | R$ 250 mil | 238 | 225 | R$ 300 | ~250 m | 1º andar | R$ 196 mil | R$ 171 mil | R$ 141 mil | Financiamento não citado |
+| 9 | [Tupi, 49 m², elevador, menos de 100 m](https://www.zapimoveis.com.br/imovel/venda-apartamento-1-quarto-com-piscina-vila-tupi-praia-grande-sp-49m2-id-2877338882/) | R$ 220 mil | 209 | 198 | R$ 383 | 100 m | elevador | R$ 165 mil | R$ 140 mil | R$ 110 mil | Financiamento não citado |
+| 9 | [Aviação, 2 dorm., 57 m² (OLX)](https://sp.olx.com.br/baixada-santista-e-litoral-sul/imoveis/apartamento-com-2-dorms-aviacao-praia-grande-r-225-mil-cod-3257-1145968868) | R$ 225 mil | 214 | 203 | R$ 394 | 300 m | não informado | R$ 170 mil | R$ 145 mil | R$ 115 mil | Financiamento não citado |
+| 9 | [Tupi, 45 m², térreo](https://www.zapimoveis.com.br/imovel/venda-apartamento-1-quarto-vila-tupi-praia-grande-sp-45m2-id-2893206417/) | R$ 230 mil | 219 | 207 | R$ 395 | 200 m | térreo | R$ 175 mil | R$ 150 mil | R$ 120 mil | — |
+
+### Leitura franca
+
+- **Com R$ 100 mil de doação, a faixa de R$ 215 a 250 mil não fecha em nenhum cenário.** Mesmo com o subsídio máximo e 10% de desconto, o mínimo nessa faixa é de cerca de R$ 106 mil. Para os melhores da tabela, com subsídio de R$ 25 mil, a doação fica entre R$ 140 mil e R$ 171 mil.
+- **Até R$ 215 mil, 83 imóveis cabem nos seus R$ 100 mil com subsídio de R$ 25 mil.** Com 10% de desconto, são 220; com o subsídio máximo, 286. Os que cabem são, em geral, kitnets ou apartamentos de 2 dormitórios longe da praia (Vila Sônia, Princesa, Quietude, Nova Mirim).
+- **2 dormitórios perto da praia, de verdade, continuam raros.** Os dois melhores seguem sendo os da rodada anterior: Guilhermina, 55 m², de frente para o mar, e Caiçara, 65 m², a 150 m. Pedem cerca de R$ 120 a 125 mil com subsídio de R$ 25 mil, ou R$ 108 a 112 mil se você conseguir 10% de desconto.
+- **Minha Casa, Minha Vida:** nenhum anúncio de imóvel pronto até R$ 215 mil cita o programa. Os prédios novos de padrão popular aparecem no Jardim Princesa, Vila Sônia, Quietude e Nova Mirim, na zona 3, do lado do morro. Custam de R$ 150 a 205 mil para 2 dormitórios e ficam a mais de 1 km da praia. É lá que a doação cai abaixo de R$ 100 mil com 2 dormitórios.
+- **Antes de visitar qualquer um, confirme quatro coisas com o anunciante:**
+  1. Se aceita financiamento da Caixa pelo MCMV. Mais da metade não diz.
+  2. Se o preço é o preço cheio, e não a entrada nem o valor à vista.
+  3. O andar e se há elevador.
+  4. O condomínio real.
+
+**Limitações**
+- Do Imovelweb li só o resumo dos anúncios.
+- Na OLX, a maioria dos anúncios não tem localização no mapa, então a distância fica "não informada" quando o texto não diz.
+- Preço, condomínio e metragem são os publicados pelos anunciantes.
+- Não preenchi formulários nem fiz contato com ninguém.
