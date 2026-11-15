@@ -1,0 +1,178 @@
+<title>Prioritários em Praia Grande</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700&family=Source+Sans+3:wght@400;600&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: ficha de imóvel; três grupos de comparação, cada um com duas fichas lado a lado; números de doação em grade tabular */
+:root{
+  --bg:#f3f5f6; --card:#ffffff; --fg:#17222a; --muted:#5b6973; --line:#d9e0e4;
+  --sea:#0f6a80; --sea-soft:#e1f0f3;
+  --sand:#9a6a17; --sand-soft:#f6eedd;
+  --warn:#a3461f; --warn-soft:#f8e8e0; --ok:#24704a; --ok-soft:#e1f1e8;
+  --display:"Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --body:"Source Sans 3", system-ui, -apple-system, sans-serif;
+  --mono:"JetBrains Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#10181d; --card:#18232a; --fg:#e6edf0; --muted:#9aaab4; --line:#2a3842;
+  --sea:#6fc3d6; --sea-soft:#163039; --sand:#e0b464; --sand-soft:#2e2717;
+  --warn:#f19b78; --warn-soft:#3a2219; --ok:#7fd1a2; --ok-soft:#183126; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#10181d; --card:#18232a; --fg:#e6edf0; --muted:#9aaab4; --line:#2a3842;
+  --sea:#6fc3d6; --sea-soft:#163039; --sand:#e0b464; --sand-soft:#2e2717;
+  --warn:#f19b78; --warn-soft:#3a2219; --ok:#7fd1a2; --ok-soft:#183126; color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:16px;line-height:1.55}
+.wrap{max-width:1040px;margin:0 auto;padding-block:36px 64px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:flex;flex-direction:column;gap:36px}
+h1,h2,h3{font-family:var(--display);margin:0;line-height:1.15;text-wrap:balance}
+h1{font-size:clamp(28px,4.5vw,42px);font-weight:700}
+h2{font-size:22px;font-weight:700}
+h3{font-size:19px;font-weight:600}
+p{margin:0;max-width:68ch}
+.lead{color:var(--muted);font-size:17px}
+.formula{font-family:var(--mono);font-size:13px;background:var(--card);border:1px solid var(--line);border-radius:8px;padding:10px 12px;overflow-x:auto;white-space:nowrap}
+.group{display:flex;flex-direction:column;gap:14px}
+.group-head{display:flex;flex-direction:column;gap:4px}
+.group-head p{color:var(--muted)}
+.pair{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+@media (max-width:760px){.pair{grid-template-columns:1fr}}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px;display:flex;flex-direction:column;gap:14px;min-width:0}
+.card-top{display:flex;justify-content:space-between;gap:12px;align-items:flex-start}
+.price{font-family:var(--display);font-size:24px;font-weight:700;white-space:nowrap;font-variant-numeric:tabular-nums}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font-size:13px;padding:2px 9px;border-radius:999px;background:var(--bg);border:1px solid var(--line);color:var(--fg)}
+.chip.sea{background:var(--sea-soft);border-color:transparent;color:var(--sea)}
+.chip.ok{background:var(--ok-soft);border-color:transparent;color:var(--ok)}
+.chip.warn{background:var(--warn-soft);border-color:transparent;color:var(--warn)}
+.don{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums;font-size:14px}
+.don th{font-weight:600;color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.04em;text-align:right;padding:4px 6px;border-bottom:1px solid var(--line)}
+.don th:first-child,.don td:first-child{text-align:left}
+.don td{text-align:right;padding:5px 6px;border-bottom:1px solid var(--line);font-family:var(--mono);font-size:13px}
+.don td:first-child{font-family:var(--body);font-size:14px}
+.don td.fit{color:var(--ok);font-weight:600}
+.don-cap{font-size:12px;color:var(--muted)}
+.check{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:3px;font-size:15px}
+.check li::marker{color:var(--warn)}
+a.go{align-self:flex-start;font-weight:600;color:var(--sea);text-decoration:none;border-bottom:2px solid var(--sea-soft)}
+a.go:hover,a.go:focus-visible{border-bottom-color:var(--sea);outline:none}
+.legend{display:flex;flex-wrap:wrap;gap:16px;font-size:14px;color:var(--muted)}
+.legend b{color:var(--ok)}
+.asks{background:var(--sand-soft);border-radius:12px;padding:18px;display:flex;flex-direction:column;gap:10px}
+.asks ol{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:4px}
+.foot{font-size:14px;color:var(--muted)}
+</style>
+
+<div class="wrap">
+  <header style="display:flex;flex-direction:column;gap:12px">
+    <h1>Prioritários em Praia Grande</h1>
+    <p class="lead">Seis apartamentos para a primeira rodada de contatos, em três pares. Cada par responde a uma escolha diferente: praia com 2 dormitórios, praia com acesso fácil, ou mais espaço longe da praia.</p>
+    <div class="legend"><span>Doação = quanto você coloca, já com ITBI e cartório.</span><span><b>Em verde:</b> cabe nos seus R$ 100 mil.</span></div>
+    <div class="formula">doação = preço + ITBI 2% + registro 1,2% + R$ 3 mil de avaliação − R$ 65 mil financiados pela sua mãe − subsídio</div>
+  </header>
+
+  <section class="group">
+    <div class="group-head">
+      <h2>Perto da praia, 2 dormitórios</h2>
+      <p>Os únicos 2 dormitórios de verdade perto do mar. Preço por m² quase pela metade da média da cidade (R$ 6.650) e anúncios antigos: podem já ter sido vendidos ou ter algum problema. Confirmar antes de tudo.</p>
+    </div>
+    <div class="pair">
+      <article class="card">
+        <div class="card-top"><h3>Guilhermina, frente mar</h3><span class="price">R$ 200 mil</span></div>
+        <div class="chips"><span class="chip sea">frente para o mar</span><span class="chip">2 dorm.</span><span class="chip">55 m²</span><span class="chip">cond. R$ 390</span><span class="chip">R$ 3.636/m²</span><span class="chip warn">financiamento não citado</span></div>
+        <table class="don"><thead><tr><th>Subsídio</th><th>Preço cheio</th><th>−5%</th><th>−10%</th></tr></thead><tbody>
+          <tr><td>Nenhum</td><td>144 mil</td><td>134 mil</td><td>124 mil</td></tr>
+          <tr><td>R$ 25 mil</td><td>119 mil</td><td>109 mil</td><td class="fit">99 mil</td></tr>
+          <tr><td>R$ 55 mil</td><td class="fit">89 mil</td><td class="fit">79 mil</td><td class="fit">69 mil</td></tr>
+        </tbody></table>
+        <ul class="check"><li>Ainda à venda? O anúncio parece antigo.</li><li>Andar, elevador e vaga não informados.</li><li>Aceita financiamento da Caixa?</li></ul>
+        <a class="go" href="https://www.vivareal.com.br/imovel/apartamento-2-quartos-vila-guilhermina-bairros-praia-grande-55m2-venda-RS200000-id-2433017484/">Abrir anúncio</a>
+      </article>
+      <article class="card">
+        <div class="card-top"><h3>Caiçara, 150 m da praia</h3><span class="price">R$ 205 mil</span></div>
+        <div class="chips"><span class="chip sea">150 m da praia</span><span class="chip">2 dorm.</span><span class="chip">65 m²</span><span class="chip">1 vaga</span><span class="chip">cond. R$ 270</span><span class="chip">R$ 3.154/m²</span><span class="chip ok">aceita financiamento</span></div>
+        <table class="don"><thead><tr><th>Subsídio</th><th>Preço cheio</th><th>−5%</th><th>−10%</th></tr></thead><tbody>
+          <tr><td>Nenhum</td><td>150 mil</td><td>139 mil</td><td>128 mil</td></tr>
+          <tr><td>R$ 25 mil</td><td>125 mil</td><td>114 mil</td><td>103 mil</td></tr>
+          <tr><td>R$ 55 mil</td><td class="fit">95 mil</td><td class="fit">84 mil</td><td class="fit">73 mil</td></tr>
+        </tbody></table>
+        <ul class="check"><li>Ainda à venda? O anúncio parece antigo.</li><li>Aceita carro no pagamento: vendedor com pressa. Perguntar por quê.</li><li>Andar e elevador não informados.</li></ul>
+        <a class="go" href="https://www.vivareal.com.br/imovel/apartamento-2-quartos-vila-caicara-bairros-praia-grande-com-garagem-65m2-venda-RS205000-id-2427716186/">Abrir anúncio</a>
+      </article>
+    </div>
+  </section>
+
+  <section class="group">
+    <div class="group-head">
+      <h2>Perto da praia, sem escada</h2>
+      <p>Menores, mas no térreo: o que mais importa para quem vai morar sozinha aos 67 anos. O do Maracanã é o único que já cabe nos seus R$ 100 mil no cenário provável.</p>
+    </div>
+    <div class="pair">
+      <article class="card">
+        <div class="card-top"><h3>Ocian, térreo com rampa</h3><span class="price">R$ 200 mil</span></div>
+        <div class="chips"><span class="chip sea">150 m da praia</span><span class="chip ok">térreo com rampa</span><span class="chip">1 dorm.</span><span class="chip">40 m²</span><span class="chip">cond. R$ 300</span><span class="chip ok">aceita financiamento</span></div>
+        <table class="don"><thead><tr><th>Subsídio</th><th>Preço cheio</th><th>−5%</th><th>−10%</th></tr></thead><tbody>
+          <tr><td>Nenhum</td><td>144 mil</td><td>134 mil</td><td>124 mil</td></tr>
+          <tr><td>R$ 25 mil</td><td>119 mil</td><td>109 mil</td><td class="fit">99 mil</td></tr>
+          <tr><td>R$ 55 mil</td><td class="fit">89 mil</td><td class="fit">79 mil</td><td class="fit">69 mil</td></tr>
+        </tbody></table>
+        <ul class="check"><li>Vaga não informada.</li><li>Térreo: perguntar se a rua alaga em chuva forte.</li></ul>
+        <a class="go" href="https://www.vivareal.com.br/imovel/apartamento-1-quartos-cidade-ocian-bairros-praia-grande-40m2-venda-RS200000-id-2922266432/">Abrir anúncio</a>
+      </article>
+      <article class="card">
+        <div class="card-top"><h3>Maracanã, térreo</h3><span class="price">R$ 175 mil</span></div>
+        <div class="chips"><span class="chip sea">~100 m da praia</span><span class="chip ok">térreo</span><span class="chip">1 dorm.</span><span class="chip">33 m²</span><span class="chip">sem vaga</span><span class="chip">cond. R$ 300</span><span class="chip">UBS e ônibus perto</span><span class="chip warn">financiamento não citado</span></div>
+        <table class="don"><thead><tr><th>Subsídio</th><th>Preço cheio</th><th>−5%</th><th>−10%</th></tr></thead><tbody>
+          <tr><td>Nenhum</td><td>118 mil</td><td>109 mil</td><td class="fit">100 mil</td></tr>
+          <tr><td>R$ 25 mil</td><td class="fit">93 mil</td><td class="fit">84 mil</td><td class="fit">75 mil</td></tr>
+          <tr><td>R$ 55 mil</td><td class="fit">63 mil</td><td class="fit">54 mil</td><td class="fit">45 mil</td></tr>
+        </tbody></table>
+        <ul class="check"><li>Distância estimada pelo mapa: confirmar.</li><li>Aceita financiamento da Caixa?</li><li>Térreo: perguntar se a rua alaga.</li></ul>
+        <a class="go" href="https://www.vivareal.com.br/imovel/apartamento-1-quartos-maracana-bairros-praia-grande-33m2-venda-RS174710-id-2920584001/">Abrir anúncio</a>
+      </article>
+    </div>
+  </section>
+
+  <section class="group">
+    <div class="group-head">
+      <h2>Longe da praia, mais espaço</h2>
+      <p>2 dormitórios por bem menos. Ficam do lado do morro, a mais de 1 km do mar. Antes de visitar, consultar o mapa de risco da Defesa Civil para o endereço.</p>
+    </div>
+    <div class="pair">
+      <article class="card">
+        <div class="card-top"><h3>Jardim Princesa, prédio novo</h3><span class="price">R$ 150 mil</span></div>
+        <div class="chips"><span class="chip">praia: não informada</span><span class="chip">2 dorm.</span><span class="chip">53 m²</span><span class="chip">1 vaga</span><span class="chip">cond. R$ 412</span><span class="chip ok">aceita financiamento</span><span class="chip warn">preço citado é à vista</span></div>
+        <table class="don"><thead><tr><th>Subsídio</th><th>Preço cheio</th><th>−5%</th><th>−10%</th></tr></thead><tbody>
+          <tr><td>Nenhum</td><td class="fit">93 mil</td><td class="fit">85 mil</td><td class="fit">77 mil</td></tr>
+          <tr><td>R$ 25 mil</td><td class="fit">68 mil</td><td class="fit">60 mil</td><td class="fit">52 mil</td></tr>
+          <tr><td>R$ 55 mil</td><td class="fit">38 mil</td><td class="fit">30 mil</td><td class="fit">22 mil</td></tr>
+        </tbody></table>
+        <ul class="check"><li>Qual o preço com financiamento? O de R$ 150 mil é à vista.</li><li>Lido só o resumo do anúncio.</li><li>Condomínio acima de R$ 400.</li></ul>
+        <a class="go" href="https://www.imovelweb.com.br/propriedades/apartamento-a-venda-no-jardim-princesa-em-praia-3048374594.html">Abrir anúncio</a>
+      </article>
+      <article class="card">
+        <div class="card-top"><h3>Nova Mirim, 68 m²</h3><span class="price">R$ 205 mil</span></div>
+        <div class="chips"><span class="chip">~1,1 km da praia</span><span class="chip">2 dorm.</span><span class="chip">68 m²</span><span class="chip">1 vaga</span><span class="chip ok">cond. R$ 180</span><span class="chip">comércio e ônibus perto</span><span class="chip ok">aceita financiamento</span></div>
+        <table class="don"><thead><tr><th>Subsídio</th><th>Preço cheio</th><th>−5%</th><th>−10%</th></tr></thead><tbody>
+          <tr><td>Nenhum</td><td>150 mil</td><td>139 mil</td><td>128 mil</td></tr>
+          <tr><td>R$ 25 mil</td><td>125 mil</td><td>114 mil</td><td>103 mil</td></tr>
+          <tr><td>R$ 55 mil</td><td class="fit">95 mil</td><td class="fit">84 mil</td><td class="fit">73 mil</td></tr>
+        </tbody></table>
+        <ul class="check"><li>Andar e elevador não informados.</li><li>Distância estimada pelo mapa.</li></ul>
+        <a class="go" href="https://www.vivareal.com.br/imovel/apartamento-2-quartos-nova-mirim-bairros-praia-grande-com-garagem-68m2-venda-RS205000-id-2921396847/">Abrir anúncio</a>
+      </article>
+    </div>
+  </section>
+
+  <section class="asks">
+    <h2>Perguntar a todos os anunciantes</h2>
+    <ol>
+      <li>O imóvel continua à venda?</li>
+      <li>O preço anunciado é o valor cheio, e não a entrada nem o valor à vista?</li>
+      <li>Aceita financiamento da Caixa pelo Minha Casa, Minha Vida?</li>
+      <li>Há débito de condomínio ou IPTU?</li>
+      <li>Em que andar fica, e o prédio tem elevador?</li>
+      <li>Pode enviar a matrícula atualizada?</li>
+    </ol>
+  </section>
+
+  <p class="foot">Dados publicados pelos anunciantes no ZAP, VivaReal e Imovelweb, lidos em 14 e 15/11/2026. Subsídio real só sai na simulação da Caixa no CPF da sua mãe. Planilha completa com 980 imóveis em busca-imoveis/imoveis.csv.</p>
+</div>
