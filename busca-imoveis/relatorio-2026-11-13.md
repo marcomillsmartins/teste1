@@ -543,9 +543,9 @@ Cada R$ 10 mil de desconto reduz a doação em cerca de R$ 10,3 mil.
 
 ### Leitura franca
 
-- **Com R$ 100 mil de doação, a faixa de R$ 215 a 250 mil não fecha em nenhum cenário.** Mesmo com o subsídio máximo e 10% de desconto, o mínimo nessa faixa é de cerca de R$ 106 mil. Para os melhores da tabela, com subsídio de R$ 25 mil, a doação fica entre R$ 140 mil e R$ 171 mil.
+- **Na faixa de R$ 215 a 250 mil, R$ 100 mil de doação só fecham juntando subsídio máximo e desconto.** Sem desconto, nenhum imóvel cabe, nem com subsídio de R$ 55 mil: o mínimo é de cerca de R$ 106 mil. Com R$ 55 mil de subsídio e 10% de desconto, 212 imóveis cabem. Para os melhores da tabela, com subsídio de R$ 25 mil, a doação fica entre R$ 140 mil e R$ 171 mil.
 - **Até R$ 215 mil, 83 imóveis cabem nos seus R$ 100 mil com subsídio de R$ 25 mil.** Com 10% de desconto, são 220; com o subsídio máximo, 286. Os que cabem são, em geral, kitnets ou apartamentos de 2 dormitórios longe da praia (Vila Sônia, Princesa, Quietude, Nova Mirim).
-- **2 dormitórios perto da praia, de verdade, continuam raros.** Os dois melhores seguem sendo os da rodada anterior: Guilhermina, 55 m², de frente para o mar, e Caiçara, 65 m², a 150 m. Pedem cerca de R$ 120 a 125 mil com subsídio de R$ 25 mil, ou R$ 108 a 112 mil se você conseguir 10% de desconto.
+- **2 dormitórios perto da praia, de verdade, continuam raros.** Os dois melhores seguem sendo os da rodada anterior: Guilhermina, 55 m², de frente para o mar, e Caiçara, 65 m², a 150 m. Pedem cerca de R$ 120 a 125 mil com subsídio de R$ 25 mil, ou R$ 99 a 103 mil se você conseguir 10% de desconto.
 - **Minha Casa, Minha Vida:** nenhum anúncio de imóvel pronto até R$ 215 mil cita o programa. Os prédios novos de padrão popular aparecem no Jardim Princesa, Vila Sônia, Quietude e Nova Mirim, na zona 3, do lado do morro. Custam de R$ 150 a 205 mil para 2 dormitórios e ficam a mais de 1 km da praia. É lá que a doação cai abaixo de R$ 100 mil com 2 dormitórios.
 - **Antes de visitar qualquer um, confirme quatro coisas com o anunciante:**
   1. Se aceita financiamento da Caixa pelo MCMV. Mais da metade não diz.
