@@ -1,0 +1,30 @@
+# Feeds RSS das editorias de política.
+# Os sites costumam publicar a matéria antes ou junto com o post nas redes,
+# então o alerta chega cedo. Confira se cada endereço ainda responde antes de usar.
+
+intervalo_segundos = 60      # de quanto em quanto tempo os feeds são lidos
+idade_maxima_minutos = 20    # notícias mais antigas que isso são ignoradas
+
+[[fonte]]
+nome = "Folha - Poder"
+url = "https://feeds.folha.uol.com.br/poder/rss091.xml"
+
+[[fonte]]
+nome = "g1 - Política"
+url = "https://g1.globo.com/rss/g1/politica/"
+
+[[fonte]]
+nome = "Estadão - Política"
+url = "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/politica/"
+
+[[fonte]]
+nome = "CNN Brasil - Política"
+url = "https://www.cnnbrasil.com.br/politica/feed/"
+
+[[fonte]]
+nome = "Metrópoles - Política"
+url = "https://www.metropoles.com/brasil/politica-brasil/feed"
+
+[[fonte]]
+nome = "Poder360"
+url = "https://www.poder360.com.br/feed/"
