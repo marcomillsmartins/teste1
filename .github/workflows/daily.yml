@@ -1,8 +1,10 @@
 name: Busca diária de vagas
 
 on:
-  schedule:
-    - cron: "17 10 * * 1-5"   # 07:17 em Brasília, dias úteis
+  # Agendamento desligado: a busca diária roda como tarefa agendada do Claude.
+  # Para usar este workflow (exige ANTHROPIC_API_KEY), reative o bloco abaixo.
+  # schedule:
+  #   - cron: "17 10 * * 1-5"   # 07:17 em Brasília, dias úteis
   workflow_dispatch:
 
 jobs:
